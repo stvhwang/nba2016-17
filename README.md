@@ -24,27 +24,30 @@ After finding some games where a comeback was successful, querying which players
   * Adds a ROW_NUMBER so a SELF JOIN can calculate points scored at each row.
   * An example table of a game's scoring data [FullScoring](https://github.com/stvhwang/nba2016-17/blob/master/FullScoring_game0021600001.csv)
 
-## 2. To find games that reach the "Point of Improbable Return" the [POIRGameCheck.sql](https://github.com/stvhwang/nba2016-17/tree/master/POIRGameCheck) finds the row WHERE the threshold was reached.
+## 2. Evaluating Games reaching POIR
+The [POIRGameCheck.sql](https://github.com/stvhwang/nba2016-17/tree/master/POIRGameCheck) finds the row WHERE the threshold was reached.
   * The POIRGameCheck query uses the full game query with common table expressions (CTE's)
   * A pair of SUBQUERIES using LIMIT in the WHERE clause find the first row and end game scoring margins.
   * Then a CASE statement evaluates the product result and outputs the game's outcome.
 
-## 3. After finding a several games (out of 50 games checked)that had a successful comeback, [POIRPlayers.sql](https://github.com/stvhwang/nba2016-17/tree/master/POIRPlayers) queries for players who contributed scoring in the unlikely comeback.
+## 3. Summing the player scoring
+After finding a several games (out of 50 games checked)that had a successful comeback, [POIRPlayers.sql](https://github.com/stvhwang/nba2016-17/tree/master/POIRPlayers) queries for players who contributed scoring in the unlikely comeback.
   * The losing team is determined by a subquery of the team reaching the threshold,
   * It exclude scores from losing team when aggregates the sum of points per contributing player.
 
-## 4. (WIP) By Unioning the POIRPlayers tables, we can find the players who contributed the most scoring in comeback games.
+## 4. Unioning player scoring (WIP)
+By Unioning the POIRPlayers tables, we can find the players who contributed the most scoring in comeback games.
   * UNION ALL POIRPlayers gives a list of players in a combined table with redundancy.
   * UNION query will make each player have a distinct entry.
   * FULL JOIN will combine the player's scoring with each game as a column.
   * INNER JOIN between two games with the same team find players who helped in both comebacks.
   * OUTER JOIN in this case will list players who helped in only one of the comeback games.
 
-## 5. Excel Presentation of data
+## 5. Excel Presentation of results
 * Vlookup
 * Pivot Table
 
-## 6.Visualizations (Tableau)
+## 6.Tableau Visualizations
 * Dashboard
 * Dual axis chart
 
