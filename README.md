@@ -1,9 +1,8 @@
 # nba2016-17 Project : The Point of Improbable Return
 **This is a work in progress**
-*This project was created as part of the Data Analytics class at Galvanize and highlights my SQL, Tableau and Excel skills.*
+*This project was created as part of the Data Analytics class at Galvanize and highlights my skills using SQL, Tableau and Excel.*
 
-<<<<<<< HEAD
-The project's aim is to query games from the NBA's play by play data for the 2016-17 season and determine the threshold when a game's point differential is unlikely to overcome by the losing team. I call this threshold The Point of Improbable Return. Nominally, I set it trigger when the scoring differential is twice that of time remaining in minutes.
+The project's aim is to query games from the NBA's play by play data for the 2016-17 season and determine the threshold when a game's point differential is unlikely to overcome by the losing team. I call this threshold the "Point of Improbable Return". Nominally, I set it trigger when the scoring differential is twice that of time remaining in minutes.
 
 After finding some games where a comeback was successful, querying which players score the most in the time after this threshold. The premise is to find the players who have the ability score to help their team overcome a losing situation and help produce a come-from-behind win.
 
@@ -44,9 +43,11 @@ After finding some games where a comeback was successful, querying which players
 ## Notes on the data
 I've attended 30-50 NBA games in my life and watch many more on TV. I invented this metric to help me view if a game was close or if one team was getting blown out. Also, if a team's window to mount a comeback was available, closing, or out of reach.
 
-* I'd like to tweak the formula to add a constant of 1-5 points, so 2 x minutes left + 2 point = amount the losing team could come back. As is, I found 5 games out of 50, or 10% of games. Given season of more of data, adjusting the algorithm to find about 5% of games would be my goal as a rule of thumb. As a fan in the stands, a simple formula is easy to calculate in your head.
+* I'd like to tweak the formula to add a constant of 1-5 points, so 2 x minutes left + 2 point = amount the losing team could come back. As is, I found 5 games out of 50, or 10% of games. Given season of more of data, adjusting the algorithm to find about 5% of games would be my desire As a fan in the stands, a simple formula is easy to calculate in your head.
+
 * For a coach, knowing which players could effect a comeback would be interesting, though expanding the query to 5-man teams, taking in account who the opponent is would help inform which players to check into the game.
+
 * Applying machine learning and training game sets would also be interesting to fine tune the formula. Just like how televised poker shows percentages of a player's hand will win, a running percentage in realtime of the likelihood a team will successfully comeback would be interesting
+
 * While cleaner game-by-game data can be purchased, I found some less-structured public data that I could help show how I cleaned and formatted the data for use.
-* I manually loaded multiple games into the Postgres database, and checked them individually if they satisfied the POIR games I was looking for. Given time, ideally a python script could load in all 1230 games in the season and performs this check and output all POIR games.
-* If this investigation continues, multiple seasons could be queried, wh
+* I manually loaded multiple games into the Postgres database, and checked them individually if they satisfied the POIR games I was looking for. Given time, I'd write a python script to load in all 1230 games in the season and performs this check and output all POIR games.

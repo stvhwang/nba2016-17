@@ -1,22 +1,37 @@
-# nba2016-17 Project : The Point of Improbable Return
-**This is a work in progress**
-*This project was created as part of the Data Analytics class at Galvanize and highlights my SQL, Tableau and Excel skills.*
+# POIR Game Check
 
-The project's aim is to query the NBA's play by play data for the 2016-17 season and determine the threshold when a game's point differential is nigh impossible to overcome. Then querying which players score the most in the time after this threshold. The premise is to find the players who have the ability score to help their team overcome a losing situation and produce a win.
+## Query
+To find games that reach the "Point of Improbable Return" the [POIRGameCheck.sql](https://github.com/stvhwang/nba2016-17/tree/master/POIRGameCheck) finds the row WHERE the threshold was reached.
+  * The POIRGameCheck query uses the full game query with common table expressions (CTE's)
+  * A pair of SUBQUERIES using LIMIT in the WHERE clause find the first row and end game scoring margins.
+  * Then a CASE statement evaluates the product result and outputs the game's outcome.
 
-## Table of Contents (SQL)
+## Logic
+The logic is that the team who's scoring basket meets the POIR threshold is the leading team. It's scoremargin will be positive or negative, and the absolute value of it will be twice number of remainnig minutes in the game.
 
-* Loading data into a database
-* Select data—including aggregates and using CASE statements—from a database
-* Retrieve data that meets your conditions by using WHERE and HAVING
-* Combine data from different tables with INNER JOINS, OUTER JOINS, and FULL JOINS
-* Combine data with UNION and UNION ALL
-* Use nested subqueries
-* Apply a WITH AS structure to string together subqueries
-more information coming later
+By checking the end score margin, we can check which team won.
+* At the score when POIR is satisfied (first row of table)
+  * a positive scoremargin = home team is leading
+  * a negative scoremargin = visiting team is leading
+* Scoremargin at the end of the game (last row of table)
+  * a positive scoremargin = home team won the game
+  * a negative scoremargin = visiting team won the games
 
-## Visualizations (Tableau)
-* Dashboard
-* Dual axis chart
+So by multiplying the scormargin at the start of POIR and the scoring margin at the end of the game, we can determine if the game had a comeback win.
+* A positive product value indicates the leading team won the game.
+  * a positive POIR scoremargin x positive End scormargin = home team lead, and won.
+  * a negative POIR scoremargin x negative End scormargin = visitor team lead, and won.
+* A negative product value indicates the losing team successfuly came back to win.
+  * a negative POIR scoremargin x positive End scormargin = home team comeback win.
+  * a positive POIR scoremargin x negative End scormargin = visitor team comeback win.
 
-## Notes on the data
+## Game Cases
+When testing the first 50 games from the NBA 2016-17 dataset, there are five games that reached POIR and resulted in a comeback victory.
+* Normal game without comeback win. (positive scoremargin product)
+  * [game 0001] : Cleveland Cavaliers @ New York Kicks
+* Comeback game (negative scoremargin product)
+  * [game 0009] : Minnesota Timbervolves @ Memphis Grizzlies | Memphis comesback to win.
+  * [game 0033] : Portland Trailblazers @ Denver Nuggets | Portland comesback to win.
+  * [game 0039] : Washington Wizards @ Memphis Grizzlies | Memphis comesback to win.
+  * [game 0046] : Orlando Magic @ Philadephia| Orlando comesback to win.
+  * [game 0049] : Sacramento Kings @ Miami Heat | Miami comesback to win.
