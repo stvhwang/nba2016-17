@@ -34,4 +34,4 @@ When testing the first 50 games from the NBA 2016-17 dataset, there are five gam
   * [game 0033](https://github.com/stvhwang/nba2016-17/blob/master/POIRGameCheck/POIRGameCheck-game0021600033.csv) : Portland Trailblazers @ Denver Nuggets | Portland comesback to win.
   * [game 0039](https://github.com/stvhwang/nba2016-17/blob/master/POIRGameCheck/POIRGameCheck-game0021600039.csv) : Washington Wizards @ Memphis Grizzlies | Memphis comesback to win.
   * [game 0046](https://github.com/stvhwang/nba2016-17/blob/master/POIRGameCheck/POIRGameCheck-game0021600046.csv) : Orlando Magic @ Philadephia| Orlando comesback to win.
-  * [game 0049](https://github.com/stvhwang/nba2016-17/blob/master/POIRGameCheck/POIRGameCheck-game0021600049.csv : Sacramento Kings @ Miami Heat | Miami comesback to win.
+  * [game 0049](https://github.com/stvhwang/nba2016-17/blob/master/POIRGameCheck/POIRGameCheck-game0021600049.csv) : Sacramento Kings @ Miami Heat | Miami comesback to win.
