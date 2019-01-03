@@ -6,11 +6,11 @@ To find games that reach the "Point of Improbable Return" the [POIRGameCheck.sql
   * A pair of SUBQUERIES using LIMIT in the WHERE clause find the first row and end game scoring margins.
   * Then a CASE statement evaluates the product result and outputs the game's outcome.
 
-## Logic
-The logic is that the team who's scoring basket meets the POIR threshold is the leading team. It's scoremargin will be positive or negative, and the absolute value of it will be twice number of remainnig minutes in the game.
+## Determining Teams and Comeback win.
+The logic is that the team who's scoring basket meets the POIR threshold is the leading team. It's scoremargin will be positive or negative, and the absolute value of it will be twice number of remaining minutes in the game.
 
 By checking the end score margin, we can check which team won.
-* At the score when POIR is satisfied (first row of table)
+* Scoremargin when POIR is satisfied (first row of table)
   * a positive scoremargin = home team is leading
   * a negative scoremargin = visiting team is leading
 * Scoremargin at the end of the game (last row of table)

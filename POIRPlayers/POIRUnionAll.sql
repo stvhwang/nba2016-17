@@ -19,4 +19,20 @@ union all
 
 select player_name, player_points, player_team_abbreviation
 from da_nba.poirplayers_game0021600049
+union all
+
+select player_name, player_points, player_team_abbreviation
+from da_nba.poirplayers_game0021600060
+union all
+
+select player_name, player_points, player_team_abbreviation
+from da_nba.poirplayers_game0021600063
+union all
+
+select player_name, player_points, player_team_abbreviation
+from da_nba.poirplayers_game0021600075
+union all
+
+select player_name, player_points, player_team_abbreviation
+from da_nba.poirplayers_game0021600090
 order by player_team_abbreviation, player_name, player_points desc

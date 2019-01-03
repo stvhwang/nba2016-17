@@ -1,0 +1,13 @@
+"row_number","minute_adjusted","seconds","player","team","score","scoremargin","points_scored"
+"72",1,54,"Giannis Antetokounmpo","MIL","72 - 69","-3",2
+"73",1,7,"J.J. Barea","DAL","72 - 71","-1",2
+"74",1,7,"J.J. Barea","DAL","72 - 72","0",1
+"75",0,27,"Giannis Antetokounmpo","MIL","74 - 72","-2",2
+"76",0,13,"Harrison Barnes","DAL","74 - 74","0",2
+"77",-8,46,"Harrison Barnes","DAL","74 - 76","2",2
+"78",-10,36,"J.J. Barea","DAL","74 - 79","5",3
+"79",-10,19,"Giannis Antetokounmpo","MIL","75 - 79","4",1
+"80",-11,31,"J.J. Barea","DAL","75 - 81","6",2
+"81",-12,59,"Wesley Matthews","DAL","75 - 84","9",3
+"82",-12,35,"Dorian Finney-Smith","DAL","75 - 85","10",1
+"83",-12,35,"Dorian Finney-Smith","DAL","75 - 86","11",1
