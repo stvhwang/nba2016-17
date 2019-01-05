@@ -6,11 +6,14 @@
 							   
 With full_game as (
 With game_time as (
-	--converts the hh:mm:ss to be mm:ss, adding 12 min per period.
+	--converts the hh:mm:ss to be mm:ss, adding 12 min per period and leaving period 4 and OT unadjusted.
 	--Also replaces 'TIE' in the score margin with '0'
 	select
 		ROW_NUMBER () OVER (ORDER BY eventnum),
-		(DATE_PART('hour', pctimestring)::integer+((4-period)*12)) as minute_adjusted,
+		CASE
+			WHEN period <= 3 THEN (DATE_PART('hour', pctimestring)::integer+((4-period)*12)) 
+			ELSE (DATE_PART('hour', pctimestring)::integer)
+			END as minute_adjusted,
 		DATE_PART('minute', pctimestring) as game_second,
 		eventnum,
 		Case

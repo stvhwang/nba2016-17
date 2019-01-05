@@ -4,18 +4,21 @@
 
 With full_game as (
 With game_time as (
-	--converts the hh:mm:ss to be mm:ss, adding 12 min per period.
+	--converts the hh:mm:ss to be mm:ss, adding 12 min per period leaving period 4 and OT unadjusted.
 	--Also replaces 'TIE' in the score margin with '0'
 	select
 		ROW_NUMBER () OVER (ORDER BY eventnum),
-		(DATE_PART('hour', pctimestring)::integer+((4-period)*12)) as minute_adjusted,
+		CASE
+			WHEN period <= 3 THEN (DATE_PART('hour', pctimestring)::integer+((4-period)*12)) 
+			ELSE (DATE_PART('hour', pctimestring)::integer)
+			END as minute_adjusted,
 		DATE_PART('minute', pctimestring) as game_second,
 		eventnum,
 		Case
 			when scoremargin = 'TIE' then '0'
 			else scoremargin
 		end
-	from da_nba.game0021601118
+	from da_nba.game0021600063
 	where (eventmsgtype = 1 or eventmsgtype = 3) and (score != 'null')
 	)
 --add row numering for all baskets scored, event message type 1 and 3, 
@@ -31,7 +34,7 @@ select
 	score,
 	gta.scoremargin,
 	(ABS(gta.scoremargin::integer - gtb.scoremargin::integer)) points_scored
-from da_nba.game0021601118 nba, game_time gta, game_time gtb 
+from da_nba.game0021600063 nba, game_time gta, game_time gtb 
 	where 
 	(eventmsgtype = 1 or eventmsgtype = 3) and (score != 'null')
 	and nba.eventnum = gta.eventnum
