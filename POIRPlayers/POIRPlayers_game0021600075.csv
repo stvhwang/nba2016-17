@@ -1,5 +1,5 @@
-"player","poir_points","team"
-"Devin Booker","12","PHX"
-"Eric Bledsoe","5","PHX"
-"TJ Warren","2","PHX"
-"Tyson Chandler","2","PHX"
+"player","poir_points","team","true_max_min"
+"Devin Booker","12","PHX",8
+"Eric Bledsoe","5","PHX",8
+"TJ Warren","2","PHX",8
+"Tyson Chandler","2","PHX",8

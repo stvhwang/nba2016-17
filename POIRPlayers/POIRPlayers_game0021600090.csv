@@ -1,5 +1,5 @@
-"player","poir_points","team"
-"J.J. Barea","8","DAL"
-"Harrison Barnes","4","DAL"
-"Wesley Matthews","3","DAL"
-"Dorian Finney-Smith","2","DAL"
+"player","poir_points","team","true_max_min"
+"J.J. Barea","8","DAL",6
+"Harrison Barnes","4","DAL",6
+"Wesley Matthews","3","DAL",6
+"Dorian Finney-Smith","2","DAL",6

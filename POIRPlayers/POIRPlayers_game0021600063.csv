@@ -1,6 +1,6 @@
-"player","poir_points","team"
-"Eric Bledsoe","9","PHX"
-"TJ Warren","7","PHX"
-"Devin Booker","6","PHX"
-"Brandon Knight","2","PHX"
-"PJ Tucker","1","PHX"
+"player","poir_points","team","true_max_min"
+"Eric Bledsoe","9","PHX",7
+"TJ Warren","7","PHX",7
+"Devin Booker","6","PHX",7
+"Brandon Knight","2","PHX",7
+"PJ Tucker","1","PHX",7

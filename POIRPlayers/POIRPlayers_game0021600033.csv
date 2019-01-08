@@ -1,6 +1,6 @@
-"player","poir_points","team"
-"CJ McCollum","12","POR"
-"Damian Lillard","7","POR"
-"Mason Plumlee","4","POR"
-"Al-Farouq Aminu","1","POR"
-"Maurice Harkless","1","POR"
+"player","poir_points","team","true_max_min"
+"CJ McCollum","12","POR",10
+"Damian Lillard","7","POR",10
+"Mason Plumlee","4","POR",10
+"Al-Farouq Aminu","1","POR",10
+"Maurice Harkless","1","POR",10

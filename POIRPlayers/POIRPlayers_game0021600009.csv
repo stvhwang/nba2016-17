@@ -1,5 +1,5 @@
-"player","poir_points","team"
-"JaMychal Green","4","MEM"
-"Mike Conley","4","MEM"
-"Marc Gasol","2","MEM"
-"Andrew Harrison","1","MEM"
+"player","poir_points","team","true_max_min"
+"JaMychal Green","4","MEM",1
+"Mike Conley","4","MEM",1
+"Marc Gasol","2","MEM",1
+"Andrew Harrison","1","MEM",1

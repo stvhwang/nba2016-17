@@ -1,6 +1,6 @@
-"player","poir_points","team"
-"Tyler Johnson","7","MIA"
-"Goran Dragic","6","MIA"
-"Dion Waiters","2","MIA"
-"Hassan Whiteside","2","MIA"
-"Justise Winslow","2","MIA"
+"player","poir_points","team","true_max_min"
+"Tyler Johnson","7","MIA",5
+"Goran Dragic","6","MIA",5
+"Dion Waiters","2","MIA",5
+"Hassan Whiteside","2","MIA",5
+"Justise Winslow","2","MIA",5

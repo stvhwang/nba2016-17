@@ -1,4 +1,4 @@
-"player","poir_points","team"
-"Marc Gasol","11","MEM"
-"Mike Conley","11","MEM"
-"Vince Carter","2","MEM"
+"player","poir_points","team","true_max_min"
+"Marc Gasol","11","MEM",8
+"Mike Conley","11","MEM",8
+"Vince Carter","2","MEM",8
