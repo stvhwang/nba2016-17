@@ -10,16 +10,16 @@
 The project's aim is to query games from the NBA's play by play data for the 2016-17 season and determine the threshold when a game's point differential is unlikely to overcome by the losing team. I call this threshold the "Point of Improbable Return". Nominally, I set it to trigger when the scoring differential is twice that of time remaining in minutes.
 
 After finding some games where a comeback was successful, querying which players score the most in the time after this threshold. The premise is to find the players who have the ability score to help their team overcome a losing situation and help produce a come-from-behind win.
-### Table of Contents
+## Table of Contents
 1. [Loading](#1.-loading-and-formatting-data) and formatting Game Data (SQL)
 2. [Evaluating](#2.-evaluating-games) games reaching POIR, and determining if comebacks are successful.
 3. [Summing](#3.-summing-player-scoring) the player scoring after POIR is reached only for the winning team.
 4. [Unioning](#4.-unioning-player-scoring) player scoring from all POIR games and order by highest scoring.
 5. [Excel](#5.-excel-manipuation) manipulation of results, cross referenced with player data. (WIP)
 6. [Tableau](#6.-tableau-visualization) visualization of results. (WIP)
-7. [Notes](#7.notes-on-data) on Data
+7. [Notes](#notes) on Data
 
-## 1. Loading and formatting data
+# 1. Loading and formatting data
 * NBA game data for the 2016-2017 season was sourced from this [link](https://drive.google.com/file/d/0B5QcyddjOpKOODZjZ0FJU3JSakU/view)
 * [CreateNBA.sql](https://github.com/stvhwang/nba2016-17/blob/master/CreateNBA.sql) creates the database schema and loads in game .csv files as table
 * [CleanNBA.sql](https://github.com/stvhwang/nba2016-17/blob/master/CleanNBA.sql) query retrieves scoring events and formats the game for subsequent queries.
@@ -29,18 +29,18 @@ After finding some games where a comeback was successful, querying which players
   * Adds a ROW_NUMBER so a SELF JOIN can calculate points scored at each row.
   * An example table of a game's scoring data [FullScoring](https://github.com/stvhwang/nba2016-17/blob/master/FullScoring_game0021600001.csv)
 
-## 2. Evaluating games
+# 2. Evaluating games
 The [POIRGameCheck.sql](https://github.com/stvhwang/nba2016-17/tree/master/POIRGameCheck) finds the row WHERE the threshold was reached.
   * The POIRGameCheck query uses the full game query with common table expressions (CTE's)
   * A pair of SUBQUERIES using LIMIT in the WHERE clause find the first row and end game scoring margins.
   * Then a CASE statement evaluates the product result and outputs the game's outcome.
 
-## 3. Summing player scoring
+# 3. Summing player scoring
 After finding a several games (out of 50 games checked)that had a successful comeback, [POIRPlayers.sql](https://github.com/stvhwang/nba2016-17/tree/master/POIRPlayers) queries for players who contributed scoring in the unlikely comeback.
   * The losing team is determined by a subquery of the team reaching the threshold,
   * It exclude scores from losing team when aggregates the sum of points per contributing player.
 
-## 4. Unioning player scoring
+# 4. Unioning player scoring
 By Unioning the POIRPlayers tables, we can find the players who contributed the most scoring in comeback games.
   * UNION ALL POIRPlayers gives a list of players in a combined table with redundancy.
   * UNION query will make each player have a distinct entry.
@@ -55,11 +55,12 @@ Excel was used as an alternative method to clean up a full game's scoring data, 
   * Index and Match was an alternate method to pair the player and their team abbreviation.
   * A Pivot table displays scoring by player viewable by gametime and filterable by team and shot type
 
-## 6.Tableau visualization
+# 6.Tableau visualization
 * Dashboard
 * Dual axis chart
 
-## 7.Notes on data
+#notes
+# 7.Notes on data
 I've attended 30-50 NBA games in my life and watch many more on TV. I invented this metric to help me view if a game was close or if one team was getting blown out. Also, if a team's window to mount a comeback was available, closing, or out of reach.
 
 * I'd like to tweak the formula to add a constant of 1-5 points. For example, 2 x minutes left + 2 point = amount the losing team could come back. As is, I found 9 games out of 100, or 9% of game, are successful comeback games. Given a season or more of data, adjusting the algorithm to find about 5% of games would be my desire. For a fan in the stands, a simple formula is easy to calculate in your head would make it more accessible as a rule of thumb.
