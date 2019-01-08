@@ -1,18 +1,17 @@
 # The Point of Improbable Return
-**This is a work in progress**
-*This project was created as part of the Data Analytics class at Galvanize and highlights my skills using SQL, Tableau and Excel.*
+*This project was created as part of the Data Analytics class at Galvanize and highlights my skills using SQL, Tableau and Excel.- Stephen Hwang*
+
 ![POIRimage1](https://github.com/stvhwang/nba2016-17/blob/master/mike-conley-marc-gasol-pick.jpg "Marc Gasol and Mike Conley")
              
-| --- | :---: | --- |
-| --- | Have you ever watched an NBA game, where one team is leading by a large margin, | --- |
-| --- | and wondered if the trailing team had enough time to mount a comeback and win? | --- |
-| --- | And which players are effective in leading a comeback win?| --- |
+| ***** | Have you ever watched an NBA game, where one team is leading by a large margin, and wondered if the trailing team had enough time to mount a comeback and win?  And which players are effective in leading a comeback win? | ***** | 
+| --- | ---      | --- |
+
 
 The project's aim is to query games from the NBA's play by play data for the 2016-17 season and determine the threshold when a game's point differential is unlikely to overcome by the losing team. I call this threshold the "Point of Improbable Return". Nominally, I set it to trigger when the scoring differential is twice that of time remaining in minutes.
 
 After finding some games where a comeback was successful, querying which players score the most in the time after this threshold. The premise is to find the players who have the ability score to help their team overcome a losing situation and help produce a come-from-behind win.
 ### Table of Contents
-1. [Loading and formatting](##1.-loading-and-formatting-data) Game Data (SQL)
+1. [Loading and formatting](#1.-loading-and-formatting-data) Game Data (SQL)
 2. Evaluating games reaching POIR, and determining if comebacks are successful.
 3. Summing the player scoring after POIR is reached only for the winning team.
 4. Unioning player scoring from all POIR games and order by highest scoring.
