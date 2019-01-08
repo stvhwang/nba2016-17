@@ -11,13 +11,13 @@ The project's aim is to query games from the NBA's play by play data for the 201
 
 After finding some games where a comeback was successful, querying which players score the most in the time after this threshold. The premise is to find the players who have the ability score to help their team overcome a losing situation and help produce a come-from-behind win.
 ### Table of Contents
-1. [Loading and formatting](#1.-loading-and-formatting-data) Game Data (SQL)
-2. Evaluating games reaching POIR, and determining if comebacks are successful.
-3. Summing the player scoring after POIR is reached only for the winning team.
-4. Unioning player scoring from all POIR games and order by highest scoring.
-5. Excel manipulation of results, cross referenced with player data. (WIP)
-6. Tableau visualization of results. (WIP)
-7. Notes on Data
+1. [Loading](#1.-loading-and-formatting-data) and formatting Game Data (SQL)
+2. [Evaluating](#2.-evaluating-games) games reaching POIR, and determining if comebacks are successful.
+3. [Summing](#3.-summing-player-scoring) the player scoring after POIR is reached only for the winning team.
+4. [Unioning](#4.-unioning-player-scoring) player scoring from all POIR games and order by highest scoring.
+5. [Excel](#5.-excel-manipuation) manipulation of results, cross referenced with player data. (WIP)
+6. [Tableau](#6.-tableau-visualization) visualization of results. (WIP)
+7. [Notes](#7.notes-on-data) on Data
 
 ## 1. Loading and formatting data
 * NBA game data for the 2016-2017 season was sourced from this [link](https://drive.google.com/file/d/0B5QcyddjOpKOODZjZ0FJU3JSakU/view)
@@ -59,7 +59,7 @@ Excel was used as an alternative method to clean up a full game's scoring data, 
 * Dashboard
 * Dual axis chart
 
-## 7.Notes on the data
+## 7.Notes on data
 I've attended 30-50 NBA games in my life and watch many more on TV. I invented this metric to help me view if a game was close or if one team was getting blown out. Also, if a team's window to mount a comeback was available, closing, or out of reach.
 
 * I'd like to tweak the formula to add a constant of 1-5 points. For example, 2 x minutes left + 2 point = amount the losing team could come back. As is, I found 9 games out of 100, or 9% of game, are successful comeback games. Given a season or more of data, adjusting the algorithm to find about 5% of games would be my desire. For a fan in the stands, a simple formula is easy to calculate in your head would make it more accessible as a rule of thumb.
