@@ -15,7 +15,7 @@ After finding some games where a comeback was successful, querying which players
 2. [Evaluating](#2-evaluating-games) games reaching POIR, and determining if comebacks are successful.
 3. [Summing](#3-summing-player-scoring) the player scoring after POIR is reached only for the winning team.
 4. [Unioning](#4-unioning-player-scoring) player scoring from all POIR games and order by highest scoring.
-5. [Excel](#5-excel-manipuation) manipulation of results, cross referenced with player data. (WIP)
+5. [Excel](#5-excel-manipulation) manipulation of results, cross referenced with player data. (WIP)
 6. [Tableau](#6-tableau-visualization) visualization of results. (WIP)
 7. [Notes](#7-notes-on-data) on Data
 
@@ -55,11 +55,11 @@ Excel was used as an alternative method to clean up a full game's scoring data, 
   * Index and Match was an alternate method to pair the player and their team abbreviation.
   * A Pivot table displays scoring by player viewable by gametime and filterable by team and shot type
 
-## 6.Tableau visualization
+## 6. Tableau visualization
 * Dashboard
 * Dual axis chart
 
-## 7.Notes on data
+## 7. Notes on data
 I've attended 30-50 NBA games in my life and watch many more on TV. I invented this metric to help me view if a game was close or if one team was getting blown out. Also, if a team's window to mount a comeback was available, closing, or out of reach.
 
 * I'd like to tweak the formula to add a constant of 1-5 points. For example, 2 x minutes left + 2 point = amount the losing team could come back. As is, I found 9 games out of 100, or 9% of game, are successful comeback games. Given a season or more of data, adjusting the algorithm to find about 5% of games would be my desire. For a fan in the stands, a simple formula is easy to calculate in your head would make it more accessible as a rule of thumb.
