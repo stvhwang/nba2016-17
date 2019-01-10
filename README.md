@@ -7,7 +7,7 @@
 | --- | ---      | --- |
 
 
-The project's aim is to query games from the NBA's play by play data for the 2016-17 season and determine the threshold when a game's point differential is unlikely to overcome by the losing team. I call this threshold the "Point of Improbable Return". Nominally, I set it to trigger when the scoring differential is twice that of time remaining in minutes.
+The project's aim is to query games from the NBA's play by play data for the 2016-17 season and evaluating a threshold when a game's point differential is unlikely to overcome by the losing team. I call this threshold the "Point of Improbable Return". Nominally, I set it to trigger when the scoring differential is twice that of time remaining in minutes.
 
 After finding some games where a comeback was successful, querying which players score the most in the time after this threshold. The premise is to find the players who have the ability score to help their team overcome a losing situation and help produce a come-from-behind win.
 ### Table of Contents
@@ -36,7 +36,7 @@ The [POIRGameCheck.sql](https://github.com/stvhwang/nba2016-17/tree/master/POIRG
   * Then a CASE statement evaluates the product result and outputs the game's outcome.
 
 ## 3. Summing player scoring
-After finding a several games (out of 50 games checked)that had a successful comeback, [POIRPlayers.sql](https://github.com/stvhwang/nba2016-17/tree/master/POIRPlayers) queries for players who contributed scoring in the unlikely comeback.
+After finding 14 games (out of 200 games checked)that had a successful comeback, [POIRPlayers.sql](https://github.com/stvhwang/nba2016-17/tree/master/POIRPlayers) queries for players who contributed scoring in the unlikely comeback.
   * The losing team is determined by a subquery of the team reaching the threshold,
   * It exclude scores from losing team when aggregates the sum of points per contributing player.
 
@@ -45,8 +45,8 @@ By Unioning the POIRPlayers tables, we can find the players who contributed the 
   * UNION ALL POIRPlayers gives a list of players in a combined table with redundancy.
   * UNION query will make each player have a distinct entry.
   * FULL JOIN will combine the player's scoring with each game as a column.
-  * INNER JOIN between two games with the same team find players who helped in both comebacks.
-  * OUTER JOIN in this case will list players who helped in only one of the comeback games.
+  * INNER JOIN between two games with the same team find players who helped in both of two comebacks.
+  * OUTER JOIN in this case will list players who helped in only one of the two comeback games.
 
 ## 5. Excel manipulation
 Excel was used as an alternative method to clean up a full game's scoring data, matching players with their teams, and filter their scoring by shot type in a pivot table
@@ -56,13 +56,14 @@ Excel was used as an alternative method to clean up a full game's scoring data, 
   * A Pivot table displays scoring by player viewable by gametime and filterable by team and shot type
 
 ## 6. Tableau visualization
+This data is then visualized in a Tableau dashboard [linked here](https://public.tableau.com/profile/stephen.hwang#!/vizhome/PointofImprobableReturn/PointofImprobableReturnDashboard).
 * Dashboard
 * Dual axis chart
 
 ## 7. Notes on data
 I've attended 30-50 NBA games in my life and watch many more on TV. I invented this metric to help me view if a game was close or if one team was getting blown out. Also, if a team's window to mount a comeback was available, closing, or out of reach.
 
-* I'd like to tweak the formula to add a constant of 1-5 points. For example, 2 x minutes left + 2 point = amount the losing team could come back. As is, I found 9 games out of 100, or 9% of game, are successful comeback games. Given a season or more of data, adjusting the algorithm to find about 5% of games would be my desire. For a fan in the stands, a simple formula is easy to calculate in your head would make it more accessible as a rule of thumb.
+* I'd like to tweak the formula to add a constant of 1-5 points. For example, 2 x minutes left + 2 point = amount the losing team could come back. As is, I found 14 games out of 200, or 7% of game, are successful comeback games. Given a season or more of data, adjusting the algorithm to find about 5% of games would be my desire. For a fan in the stands, a simple formula is easy to calculate in your head would make it more accessible as a rule of thumb.
 
 * For a coach, knowing which players could effect a comeback would be interesting. Expanding the query to include 5-man teams, the arena and particular opponents would help inform which players to substitute into the game.
 
