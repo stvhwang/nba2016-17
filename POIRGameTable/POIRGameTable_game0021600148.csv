@@ -1,0 +1,10 @@
+"row_number","minute_adjusted","seconds","player","team","score","scoremargin","points_scored"
+"112",1,57,"Isaiah Thomas","BOS","102 - 100","-2",3
+"113",1,31,"Anthony Davis","NOP","102 - 101","-1",1
+"114",1,31,"Anthony Davis","NOP","102 - 102","0",1
+"115",0,33,"Isaiah Thomas","BOS","103 - 102","-1",1
+"116",0,24,"Anthony Davis","NOP","103 - 103","0",1
+"117",0,24,"Anthony Davis","NOP","103 - 104","1",1
+"118",0,14,"Tim Frazier","NOP","103 - 105","2",1
+"119",0,7,"Isaiah Thomas","BOS","105 - 105","0",2
+"120",0,2,"Tim Frazier","NOP","105 - 106","1",1

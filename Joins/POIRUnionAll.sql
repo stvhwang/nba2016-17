@@ -35,4 +35,24 @@ union all
 
 select player_name, player_points, player_team_abbreviation, true_max_min
 from da_nba.poirplayers_game0021600090
+union all
+
+select player_name, player_points, player_team_abbreviation, true_max_min
+from da_nba.poirplayers_game0021600102
+union all
+
+select player_name, player_points, player_team_abbreviation, true_max_min
+from da_nba.poirplayers_game0021600110
+union all
+
+select player_name, player_points, player_team_abbreviation, true_max_min
+from da_nba.poirplayers_game0021600141
+union all
+
+select player_name, player_points, player_team_abbreviation, true_max_min
+from da_nba.poirplayers_game0021600148
+union all
+
+select player_name, player_points, player_team_abbreviation, true_max_min
+from da_nba.poirplayers_game0021600185
 order by player_team_abbreviation, player_name, player_points desc
