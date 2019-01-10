@@ -47,6 +47,7 @@ By Unioning the POIRPlayers tables, we can find the players who contributed the 
   * FULL JOIN will combine the player's scoring with each game as a column.
   * INNER JOIN between two games with the same team find players who helped in both of two comebacks.
   * OUTER JOIN in this case will list players who helped in only one of the two comeback games.
+  * HAVING filters the aggregate values for players with multiple games and more than 5 minutes of POIR play
 
 ## 5. Excel manipulation
 Excel was used as an alternative method to clean up a full game's scoring data, matching players with their teams, and filter their scoring by shot type in a pivot table
