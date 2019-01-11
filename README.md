@@ -43,13 +43,13 @@ After finding 14 games (out of 200 games checked)that had a successful comeback,
 
 ## 4. Unioning player scoring
 By Unioning the POIRPlayers tables, we can find the players who contributed the most scoring in comeback games.
-  * [UNION](https://github.com/stvhwang/nba2016-17/blob/master/Joins/POIRUnion.sql) query will make each player have a distinct entry. And will overwrite player data who appear multiple times.[Result](https://github.com/stvhwang/nba2016-17/blob/master/Joins/POIRUnion.csv)
+  * [UNION](https://github.com/stvhwang/nba2016-17/blob/master/Joins/POIRUnion.sql) query will make each player have a distinct entry. And this table will overwrite player data who appear multiple times. [Result](https://github.com/stvhwang/nba2016-17/blob/master/Joins/POIRUnion.csv)
   * [UNION ALL](https://github.com/stvhwang/nba2016-17/blob/master/Joins/POIRUnionAll.sql) POIRPlayers gives a list of players in a combined table listing players multiple times. [Result](https://github.com/stvhwang/nba2016-17/blob/master/Joins/POIRUnionAll.csv)
-  * [HAVING](https://github.com/stvhwang/nba2016-17/blob/master/Joins/POIRUnionGames.sql) filters the aggregate values for players with multiple games and more than 5 minutes of POIR play.[Shown here](https://github.com/stvhwang/nba2016-17/blob/master/Joins/POIRUnionGames.csv)
+  * [HAVING](https://github.com/stvhwang/nba2016-17/blob/master/Joins/POIRUnionGames.sql) filters the aggregate values for players with multiple games and more than 5 minutes of POIR play. [Shown here](https://github.com/stvhwang/nba2016-17/blob/master/Joins/POIRUnionGames.csv)
   
 Isolating data from two games,[one](https://github.com/stvhwang/nba2016-17/blob/master/Joins/POIRPlayers_Game1.csv) and [two](https://github.com/stvhwang/nba2016-17/blob/master/Joins/POIRPlayers_Game2.csv) by the same comeback team can demonstrate
   * [FULL JOIN](https://github.com/stvhwang/nba2016-17/blob/master/Joins/POIRPlayers_FullOuterJoin.sql) will combine the player's scoring with each game as a column. [Result](https://github.com/stvhwang/nba2016-17/blob/master/Joins/POIRPlayers_FullOuterJoin.csv)
-  * [INNER JOIN](https://github.com/stvhwang/nba2016-17/blob/master/Joins/POIRPlayers_InnerJoin.sql) between two games with the same team find players who helped in both of two comebacks.[Result](https://github.com/stvhwang/nba2016-17/blob/master/Joins/POIRPlayers_InnerJoin.csv)
+  * [INNER JOIN](https://github.com/stvhwang/nba2016-17/blob/master/Joins/POIRPlayers_InnerJoin.sql) between two games with the same team find players who helped in both of two comebacks. [Result](https://github.com/stvhwang/nba2016-17/blob/master/Joins/POIRPlayers_InnerJoin.csv)
   * [LEFT JOIN](https://github.com/stvhwang/nba2016-17/blob/master/Joins/POIRPlayers_LeftJoin.sql) takes all the players from game 1 and adds data from game 2 but not any new game 2 rows. [seen here](https://github.com/stvhwang/nba2016-17/blob/master/Joins/POIRPlayers_LeftJoin.csv)
 
 ## 5. Excel manipulation
@@ -81,4 +81,8 @@ I've attended 30-50 NBA games in my life and watch many more on TV. I invented t
 
 * I manually loaded multiple games into the Postgres database, and checked them individually if they satisfied the POIR games I was looking for. Given time, I'd write a python script to load in all 1230 games in the season and performs this check and output all POIR games.
 
-* Of the 100 games checked was one edge case game, which didn't yeild a result from the POIRGameCheck.sql.  Upon further investigation, the game never triggered the POIR check, always staying withing a scoring margin less than 2 x the minutes remaining. I also adjusted the minutes remaining calculation to take overtime periods in account. While it didn't occur in the games checked, if a game only hit the POIR threshold in overtime, the POIRGameCheck.sql would report it.
+* Of the 200 games checked was one edge case game, which didn't yeild a result from the POIRGameCheck.sql.  Upon further investigation, the game never triggered the POIR check, always staying withing a scoring margin less than 2 x the minutes remaining. I also adjusted the minutes remaining calculation to take overtime periods in account. While it didn't occur in the games checked, if a game only hit the POIR threshold in overtime, the POIRGameCheck.sql would report it.
+
+* Known issues: 
+  * I take the time the POIR conditon is met to the end of the game to calculate a rate for a player's scoring, without knowing if a player was substitued in or not.
+  * While some teams and players show up as effective in comebacks, it could also mean those teams with those players have a tendency to get behind by large point marginss early in the game, giving them more opportunities to showcase their sklls in comeback wins.
