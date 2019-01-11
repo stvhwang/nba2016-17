@@ -1,4 +1,4 @@
---POIRPlayersUnionAll.sql
+--POIRUnionGames.sql
 --Lists point per player from all the the POIRPlayer tables
 
 select distinct(player_name),
