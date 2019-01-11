@@ -1,5 +1,5 @@
 "row_number"|"minute_adjusted"|"seconds"|"player"|"score"|"scoremargin"
----|---|---|---|---|---|---
+--- | --- | --- | --- | --- | --- | ---
 "1"|47|40|"Derrick Rose"|"2 - 0"|"-2"
 "2"|47|15|"Kristaps Porzingis"|"4 - 0"|"-4"
 "3"|46|59|"LeBron James"|"4 - 2"|"-2"
