@@ -53,11 +53,15 @@ Isolating data from two games,[one](https://github.com/stvhwang/nba2016-17/blob/
   * [LEFT JOIN](https://github.com/stvhwang/nba2016-17/blob/master/Joins/POIRPlayers_LeftJoin.sql) takes all the players from game 1 and adds data from game 2 but not any new game 2 rows. [seen here](https://github.com/stvhwang/nba2016-17/blob/master/Joins/POIRPlayers_LeftJoin.csv)
 
 ## 5. Excel manipulation
-Excel was used as an alternative method to clean up a full game's scoring data, matching players with their teams, and filter their scoring by shot type in a pivot table
+Excel was used as an alternative method to clean up a full game's scoring data, matching players with their teams, and filter their scoring by shot type in a pivot table. Files can be downloaded from [here]().
   * Using Substitute, Find, Len, Left and Right functions to create a clean score, splitting home and visitor team points.
+    * Link to raw [xlsx file](https://github.com/stvhwang/nba2016-17/blob/master/Excel/FullPoints_game0026100001_CleanScore.xlsx?raw=true).
   * Vlookup was used to find the team abbreviation for each player who scored.
+     * Link to raw [xlsx file](https://github.com/stvhwang/nba2016-17/blob/master/Excel/FullPoints_game0026100001_Vlookup.xlsx?raw=true).
   * Index and Match was an alternate method to pair the player and their team abbreviation.
+     * Link to raw [xlsx file](https://github.com/stvhwang/nba2016-17/blob/master/Excel/FullPoints_game0026100001_IndexMatch.xlsx?raw=true).
   * A Pivot table displays scoring by player viewable by gametime and filterable by team and shot type
+    * Link to raw [xlsx file](https://github.com/stvhwang/nba2016-17/blob/master/Excel/FullPoints_game0026100001_PivotTable.xlsx?raw=true).
 
 ## 6. Tableau visualization
 This data is then visualized in a Tableau dashboard [linked here](https://public.tableau.com/profile/stephen.hwang#!/vizhome/PointofImprobableReturn/PointofImprobableReturnDashboard).
