@@ -20,7 +20,7 @@ After finding some games where a comeback was successful, querying which players
 7. [Notes](#7-notes-on-data) on Data
 
 ## 1. Loading and formatting data
-* NBA game data for the 2016-2017 season was sourced from this [link](https://drive.google.com/file/d/0B5QcyddjOpKOODZjZ0FJU3JSakU/view)
+* NBA game data for the 2016-2017 season was sourced from this [link](https://drive.google.com/file/d/0B5QcyddjOpKOODZjZ0FJU3JSakU/view).  The original csv looks like [this](https://raw.githubusercontent.com/stvhwang/nba2016-17/master/CleanNBA/0021600001.csv)
 * [CreateNBA.sql](https://github.com/stvhwang/nba2016-17/blob/master/CleanNBA/CreateNBA.sql) creates the database schema and loads in game .csv files as table
 * [CleanNBA.sql](https://github.com/stvhwang/nba2016-17/blob/master/CleanNBA/CleanNBA.sql) query retrieves scoring events and formats the game for subsequent queries.
   * It retrieves data using WHERE to only pull scoring events and ignore missed ('null') freethrows
@@ -37,18 +37,19 @@ The [POIRGameCheck.sql](https://github.com/stvhwang/nba2016-17/blob/master/POIRG
      * if a game had the [prevailing team winning]() or if the [trailing team cameback to win]().
 
 ## 3. Summing player scoring
-After finding 14 games (out of 200 games checked)that had a successful comeback, [POIRPlayers.sql](https://github.com/stvhwang/nba2016-17/tree/master/POIRPlayers) queries for players who contributed scoring in the unlikely comeback.
-  * The losing team is determined by a subquery of the team reaching the threshold,
-  * It exclude scores from losing team when aggregates the sum of points per contributing player.
+After finding 14 games (out of 200 games checked)that had a successful comeback, [POIRPlayers.sql](https://github.com/stvhwang/nba2016-17/blob/master/POIRPlayers/POIRPlayers.sql) queries for players who contributed scoring in the unlikely comeback.
+  * The losing team is determined by a subquery of the team reaching the threshold.
+  * It exclude scores from losing team when aggregates the sum of points per contributing player. An [exmaple](https://github.com/stvhwang/nba2016-17/blob/master/POIRPlayers/POIRPlayers_game0021600009.csv)
 
 ## 4. Unioning player scoring
 By Unioning the POIRPlayers tables, we can find the players who contributed the most scoring in comeback games.
-  * UNION ALL POIRPlayers gives a list of players in a combined table with redundancy.
-  * UNION query will make each player have a distinct entry.
-  * FULL JOIN will combine the player's scoring with each game as a column.
-  * INNER JOIN between two games with the same team find players who helped in both of two comebacks.
-  * OUTER JOIN in this case will list players who helped in only one of the two comeback games.
-  * HAVING filters the aggregate values for players with multiple games and more than 5 minutes of POIR play
+  * [UNION](https://github.com/stvhwang/nba2016-17/blob/master/Joins/POIRUnion.sql) query will make each player have a distinct entry. And will overwrite player data who appear multiple times.[Result](https://github.com/stvhwang/nba2016-17/blob/master/Joins/POIRUnion.csv)
+  * [UNION ALL](https://github.com/stvhwang/nba2016-17/blob/master/Joins/POIRUnionAll.sql) POIRPlayers gives a list of players in a combined table listing players multiple times. [Result](https://github.com/stvhwang/nba2016-17/blob/master/Joins/POIRUnionAll.csv)
+  * [HAVING](https://github.com/stvhwang/nba2016-17/blob/master/Joins/POIRUnionGames.sql) filters the aggregate values for players with multiple games and more than 5 minutes of POIR play.[Shown here](https://github.com/stvhwang/nba2016-17/blob/master/Joins/POIRUnionGames.csv)
+Isolating data from two games,[one](https://github.com/stvhwang/nba2016-17/blob/master/Joins/POIRPlayers_Game1.csv) and [two](https://github.com/stvhwang/nba2016-17/blob/master/Joins/POIRPlayers_Game2.csv) by the same comeback team can demonstrate
+  * [FULL JOIN](https://github.com/stvhwang/nba2016-17/blob/master/Joins/POIRPlayers_FullOuterJoin.sql) will combine the player's scoring with each game as a column. [Result](https://github.com/stvhwang/nba2016-17/blob/master/Joins/POIRPlayers_FullOuterJoin.csv)
+  * [INNER JOIN](https://github.com/stvhwang/nba2016-17/blob/master/Joins/POIRPlayers_InnerJoin.sql) between two games with the same team find players who helped in both of two comebacks.[Result](https://github.com/stvhwang/nba2016-17/blob/master/Joins/POIRPlayers_InnerJoin.csv)
+  * [LEFT JOIN](https://github.com/stvhwang/nba2016-17/blob/master/Joins/POIRPlayers_LeftJoin.sql) takes all the players from game 1 and adds data from game 2 but not any new game 2 rows. [seen here](https://github.com/stvhwang/nba2016-17/blob/master/Joins/POIRPlayers_LeftJoin.csv)
 
 ## 5. Excel manipulation
 Excel was used as an alternative method to clean up a full game's scoring data, matching players with their teams, and filter their scoring by shot type in a pivot table
