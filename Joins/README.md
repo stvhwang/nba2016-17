@@ -26,7 +26,8 @@ full outer join da_nba.poirplayers_game0021600039 game2
 on game1.player_name = game2.player_name
 ```
 Results : Shows all players from both games
-"Game 1 Player"|"Game 2 Player"|"Game 1 Points"|"Game 2 Points"
+
+|"Game 1 Player"|"Game 2 Player"|"Game 1 Points"|"Game 2 Points"|
 | --- | --- | --- | --- |
 |"Andrew Harrison"|""|1|""|
 |"JaMychal Green"|""|4|""|
@@ -42,7 +43,8 @@ join da_nba.poirplayers_game0021600039 game2
 on game1.player_name = game2.player_name
 ```
 Results: Shows only players who scored in both games.
-"player_name"|"player_points"|"player_points-2"
+
+|"player_name"|"player_points"|"player_points-2"|
 | --- | --- | --- |
 |"Marc Gasol"|2|11|
 |"Mike Conley"|4|11|
@@ -55,8 +57,9 @@ left join da_nba.poirplayers_game0021600039 game2
 on game1.player_name = game2.player_name
 ```
 Results: Shows all players from game1, with game 2 scoring, but no new game2 only players.
+
 |"player_name"|"player_points"|"player_points-2"|
-| --- | --- | --- | --- |
+| --- | --- | --- |
 |"Andrew Harrison"|1|""|
 |"JaMychal Green"|4|""|
 |"Marc Gasol"|2|11|
