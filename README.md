@@ -48,6 +48,7 @@ By Unioning the POIRPlayers tables, we can find the players who contributed the 
   * [HAVING](https://github.com/stvhwang/nba2016-17/blob/master/Joins/POIRUnionGames.sql) filters the aggregate values for players with multiple games and more than 5 minutes of POIR play. [Shown here](https://github.com/stvhwang/nba2016-17/blob/master/Joins/POIRUnionGames.csv)
   
 Isolating data from two games,[one](https://github.com/stvhwang/nba2016-17/blob/master/Joins/POIRPlayers_Game1.csv) and [two](https://github.com/stvhwang/nba2016-17/blob/master/Joins/POIRPlayers_Game2.csv) by the same comeback team can demonstrate
+SQL and resulting tables can be viewed in line [here](https://github.com/stvhwang/nba2016-17/blob/master/Joins/README.md).
   * [FULL JOIN](https://github.com/stvhwang/nba2016-17/blob/master/Joins/POIRPlayers_FullOuterJoin.sql) will combine the player's scoring with each game as a column. [Result](https://github.com/stvhwang/nba2016-17/blob/master/Joins/POIRPlayers_FullOuterJoin.csv)
   * [INNER JOIN](https://github.com/stvhwang/nba2016-17/blob/master/Joins/POIRPlayers_InnerJoin.sql) between two games with the same team find players who helped in both of two comebacks. [Result](https://github.com/stvhwang/nba2016-17/blob/master/Joins/POIRPlayers_InnerJoin.csv)
   * [LEFT JOIN](https://github.com/stvhwang/nba2016-17/blob/master/Joins/POIRPlayers_LeftJoin.sql) takes all the players from game 1 and adds data from game 2 but not any new game 2 rows. [seen here](https://github.com/stvhwang/nba2016-17/blob/master/Joins/POIRPlayers_LeftJoin.csv)
