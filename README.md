@@ -1,7 +1,7 @@
 # The Point of Improbable Return
 *This project was created as part of the Data Analytics class at Galvanize and highlights my skills using SQL, Tableau and Excel.- Stephen Hwang*
 
-![POIRimage1](https://github.com/stvhwang/nba2016-17/blob/master/mike-conley-marc-gasol-pick.jpg "Marc Gasol and Mike Conley")
+![POIRimage1](https://github.com/stvhwang/nba2016-17/blob/master/mike-conley-marc-gasol-pick.jpg "Marc Gasol and Mike Conley, players who led the Memphis Grizzles to multiple come-from-behind wins.")
              
 | ***** | Have you ever watched an NBA game, where one team is leading by a large margin, and wondered if the trailing team had enough time to mount a comeback and win?  And which players are effective in leading a comeback win? | ***** | 
 | --- | ---      | --- |
@@ -53,7 +53,7 @@ Isolating data from two games,[one](https://github.com/stvhwang/nba2016-17/blob/
   * [LEFT JOIN](https://github.com/stvhwang/nba2016-17/blob/master/Joins/POIRPlayers_LeftJoin.sql) takes all the players from game 1 and adds data from game 2 but not any new game 2 rows. [seen here](https://github.com/stvhwang/nba2016-17/blob/master/Joins/POIRPlayers_LeftJoin.csv)
 
 ## 5. Excel manipulation
-Excel was used as an alternative method to clean up a full game's scoring data, matching players with their teams, and filter their scoring by shot type in a pivot table. Files can be downloaded from [here]().
+Excel was used as an alternative method to clean up a full game's scoring data, matching players with their teams, and filter their scoring by shot type in a pivot table. Files can be downloaded from [here](https://github.com/stvhwang/nba2016-17/tree/master/Excel).
   * Using Substitute, Find, Len, Left and Right functions to create a clean score, splitting home and visitor team points.
     * Link to raw [xlsx file](https://github.com/stvhwang/nba2016-17/blob/master/Excel/FullPoints_game0026100001_CleanScore.xlsx?raw=true).
   * Vlookup was used to find the team abbreviation for each player who scored.
@@ -65,8 +65,8 @@ Excel was used as an alternative method to clean up a full game's scoring data, 
 
 ## 6. Tableau visualization
 This data is then visualized in a Tableau dashboard [linked here](https://public.tableau.com/profile/stephen.hwang#!/vizhome/PointofImprobableReturn/PointofImprobableReturnDashboard).
-* Dashboard
-* Dual axis chart
+  * The dashboard combines charts that show all players who scored in comeback games after reaching POIR, marking teams by color, and charting them by total points scored, points per game and points per minute. Another bar chart show overall POIR scoring by team. It is also cross-chart filterable by team and by player.
+  * Dual axis chart
 
 ## 7. Notes on data
 I've attended 30-50 NBA games in my life and watch many more on TV. I invented this metric to help me view if a game was close or if one team was getting blown out. Also, if a team's window to mount a comeback was available, closing, or out of reach.
@@ -75,7 +75,7 @@ I've attended 30-50 NBA games in my life and watch many more on TV. I invented t
 
 * For a coach, knowing which players could effect a comeback would be interesting. Expanding the query to include 5-man teams, the arena and particular opponents would help inform which players to substitute into the game.
 
-* Applying machine learning and training game sets would also be interesting to fine tune the formula. Just like how televised poker shows percentages of a player's hand will win, a running percentage in realtime of the likelihood a team will successfully comeback would be interesting
+* Applying machine learning and training game sets would also be interesting to fine tune the formula. Just like how televised poker shows percentages of a player's hand will win, a running percentage in realtime of the likelihood a team will successfully comeback would be interesting. This is particularly interesting since the NBA is movoing towards basketball [sports betting](http://www.espn.com/chalk/story/_/id/24248120/gambling-need-know-nba-sports-betting-partnership), and advances like [Clippers CourtVision](https://www.clipperscourtvision.com) have started showing near-realtime stats during game broadcasts.
 
 * While cleaner game-by-game data can be purchased, I found some less-structured public data that I could help demonstrate how I cleaned and formatted the data for use.
 
