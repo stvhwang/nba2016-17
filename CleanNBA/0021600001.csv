@@ -1,0 +1,487 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,12,0,0021600001,,,12:00,1,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,7:37 PM
+1,0,10,1,0021600001,Jump Ball Thompson vs. Noah: Tip to Rose,,12:00,1,4.0,5,5,202684,Tristan Thompson,CLE,Cleveland,1610612739.0,Cavaliers,201149,Joakim Noah,NYK,New York,1610612752.0,Knicks,201565,Derrick Rose,NYK,New York,1610612752.0,Knicks,,,,7:37 PM
+2,42,1,2,0021600001,,,11:40,1,5.0,5,0,201565,Derrick Rose,NYK,New York,1610612752.0,Knicks,201149,Joakim Noah,NYK,New York,1610612752.0,Knicks,0,,,,,,2 - 0,-2,Rose 1' Driving Layup (2 PTS) (Noah 1 AST),7:37 PM
+3,3,2,3,0021600001,MISS Love 4' Hook Shot,,11:26,1,4.0,0,0,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:37 PM
+4,0,4,4,0021600001,,,11:23,1,5.0,0,0,201149,Joakim Noah,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Noah REBOUND (Off:0 Def:1),7:37 PM
+5,1,2,5,0021600001,,,11:16,1,5.0,0,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Anthony 20' Jump Shot,7:38 PM
+6,0,4,6,0021600001,,,11:15,1,5.0,0,0,204001,Kristaps Porzingis,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Porzingis REBOUND (Off:1 Def:0),7:38 PM
+7,97,1,7,0021600001,,,11:15,1,5.0,0,0,204001,Kristaps Porzingis,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,4 - 0,-4,Porzingis 2' Tip Layup Shot (2 PTS),7:38 PM
+8,1,1,8,0021600001,James 11' Jump Shot (2 PTS) (Irving 1 AST),,10:59,1,4.0,4,0,2544,LeBron James,CLE,Cleveland,1610612739.0,Cavaliers,202681,Kyrie Irving,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,4 - 2,-2,,7:38 PM
+9,40,5,9,0021600001,,,10:58,1,5.0,0,0,201565,Derrick Rose,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Rose Out of Bounds Lost Ball Turnover (P1.T1),7:38 PM
+10,1,2,10,0021600001,MISS Irving 25' 3PT Jump Shot,,10:46,1,4.0,0,0,202681,Kyrie Irving,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:38 PM
+11,0,4,11,0021600001,,,10:45,1,5.0,0,0,201584,Courtney Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Lee REBOUND (Off:0 Def:1),7:38 PM
+12,1,2,12,0021600001,,,10:34,1,5.0,0,0,201584,Courtney Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Lee 18' Jump Shot,7:38 PM
+13,0,4,13,0021600001,Love REBOUND (Off:0 Def:1),,10:33,1,4.0,0,0,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:38 PM
+14,1,2,14,0021600001,MISS Love 25' 3PT Jump Shot,,10:21,1,4.0,0,0,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:38 PM
+15,0,4,15,0021600001,,,10:21,1,5.0,0,0,201149,Joakim Noah,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Noah REBOUND (Off:0 Def:2),7:39 PM
+16,4,6,16,0021600001,,,10:11,1,5.0,4,1,201149,Joakim Noah,NYK,New York,1610612752.0,Knicks,2747,JR Smith,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,Noah OFF.Foul (P1) (B.Kennedy),7:39 PM
+17,5,5,17,0021600001,,,10:11,1,5.0,0,1,201149,Joakim Noah,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Noah Foul Turnover (P1.T2),7:39 PM
+18,98,1,18,0021600001,Smith  Cutting Layup Shot (2 PTS) (James 1 AST),,9:59,1,4.0,4,0,2747,JR Smith,CLE,Cleveland,1610612739.0,Cavaliers,2544,LeBron James,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,4 - 4,TIE,,7:39 PM
+19,1,2,19,0021600001,,,9:47,1,5.0,0,0,204001,Kristaps Porzingis,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Porzingis 16' Jump Shot,7:39 PM
+20,0,4,20,0021600001,,,9:47,1,5.0,0,0,201149,Joakim Noah,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Noah REBOUND (Off:1 Def:2),7:39 PM
+21,2,6,21,0021600001,James S.FOUL (P1.T1) (K.Lane),,9:44,1,4.0,5,1,2544,LeBron James,CLE,Cleveland,1610612739.0,Cavaliers,204001,Kristaps Porzingis,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,7:40 PM
+22,11,3,22,0021600001,,,9:44,1,5.0,0,0,204001,Kristaps Porzingis,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,5 - 4,-1,Porzingis Free Throw 1 of 2 (3 PTS),7:40 PM
+23,12,3,24,0021600001,,,9:44,1,5.0,0,0,204001,Kristaps Porzingis,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Porzingis Free Throw 2 of 2,7:40 PM
+24,0,4,26,0021600001,Thompson REBOUND (Off:0 Def:1),,9:44,1,4.0,0,0,202684,Tristan Thompson,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:40 PM
+25,1,2,27,0021600001,MISS Love 20' Jump Shot,,9:33,1,4.0,0,0,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:40 PM
+26,0,4,28,0021600001,Irving REBOUND (Off:1 Def:0),,9:32,1,4.0,0,0,202681,Kyrie Irving,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:40 PM
+27,1,2,29,0021600001,MISS James 25' 3PT Jump Shot,,9:27,1,4.0,0,0,2544,LeBron James,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:40 PM
+28,0,4,30,0021600001,,,9:27,1,5.0,0,0,201149,Joakim Noah,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Noah REBOUND (Off:1 Def:3),7:40 PM
+29,78,2,31,0021600001,,,9:18,1,5.0,0,0,201565,Derrick Rose,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Rose 12' Floating Jump Shot,7:41 PM
+30,0,4,32,0021600001,,,9:16,1,5.0,0,0,201565,Derrick Rose,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Rose REBOUND (Off:1 Def:0),7:41 PM
+31,1,2,33,0021600001,,,9:08,1,5.0,0,0,201584,Courtney Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Lee 25' 3PT Jump Shot,7:41 PM
+32,0,4,34,0021600001,,,9:07,1,5.0,0,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Anthony REBOUND (Off:1 Def:0),7:41 PM
+33,97,2,35,0021600001,,,9:07,1,5.0,0,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Anthony 1' Tip Layup Shot,7:41 PM
+34,0,4,36,0021600001,Love REBOUND (Off:0 Def:2),,9:06,1,4.0,0,0,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:41 PM
+35,47,2,37,0021600001,MISS Thompson 9' Turnaround Jump Shot,,8:58,1,4.0,0,5,202684,Tristan Thompson,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,204001,Kristaps Porzingis,NYK,New York,1610612752.0,Knicks,,,Porzingis BLOCK (1 BLK),7:41 PM
+36,0,4,38,0021600001,,,8:56,1,5.0,0,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Anthony REBOUND (Off:1 Def:1),7:41 PM
+37,1,1,39,0021600001,,,8:47,1,5.0,0,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,7 - 4,-3,Anthony 16' Jump Shot (2 PTS),7:41 PM
+38,1,2,40,0021600001,MISS James 25' 3PT Jump Shot,,8:16,1,4.0,0,0,2544,LeBron James,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:42 PM
+39,0,4,41,0021600001,,,8:15,1,5.0,0,0,204001,Kristaps Porzingis,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Porzingis REBOUND (Off:1 Def:1),7:42 PM
+40,5,2,42,0021600001,,,8:09,1,5.0,0,0,201565,Derrick Rose,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Rose 1' Layup,7:42 PM
+41,0,4,43,0021600001,James REBOUND (Off:0 Def:1),,8:06,1,4.0,0,0,2544,LeBron James,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:42 PM
+42,5,2,44,0021600001,MISS Irving  Layup,,8:01,1,4.0,0,0,202681,Kyrie Irving,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:42 PM
+43,0,4,45,0021600001,CAVALIERS Rebound,,8:01,1,2.0,0,0,1610612739,,,,,,0,,,,,,0,,,,,,,,,7:42 PM
+44,1,1,46,0021600001,Smith 25' 3PT Jump Shot (5 PTS) (James 2 AST),,7:56,1,4.0,4,0,2747,JR Smith,CLE,Cleveland,1610612739.0,Cavaliers,2544,LeBron James,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,7 - 7,TIE,,7:42 PM
+45,1,5,47,0021600001,Love STEAL (1 STL),,7:42,1,5.0,4,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,Anthony Bad Pass Turnover (P1.T3),7:43 PM
+46,1,2,48,0021600001,MISS Smith 24' 3PT Jump Shot,,7:33,1,4.0,0,0,2747,JR Smith,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:43 PM
+47,0,4,49,0021600001,,,7:32,1,5.0,0,0,201565,Derrick Rose,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Rose REBOUND (Off:1 Def:1),7:43 PM
+48,1,9,51,0021600001,CAVALIERS Timeout: Regular (Full 1 Short 0),,7:28,1,2.0,0,0,1610612739,,,,,,0,,,,,,0,,,,,,,,,7:43 PM
+49,1,1,56,0021600001,,,7:12,1,5.0,5,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,201565,Derrick Rose,NYK,New York,1610612752.0,Knicks,0,,,,,,10 - 7,-3,Anthony  3PT Jump Shot (5 PTS) (Rose 1 AST),7:46 PM
+50,1,6,57,0021600001,,,7:03,1,5.0,4,1,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,2544,LeBron James,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,Anthony P.FOUL (P1.T1) (B.Kennedy),7:46 PM
+51,1,2,58,0021600001,MISS Smith 26' 3PT Jump Shot,,6:52,1,4.0,0,0,2747,JR Smith,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:47 PM
+52,0,4,59,0021600001,James REBOUND (Off:1 Def:1),,6:52,1,4.0,0,0,2544,LeBron James,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:47 PM
+53,42,1,60,0021600001,Love 2' Driving Layup (2 PTS) (James 3 AST),,6:48,1,4.0,4,0,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,2544,LeBron James,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,10 - 9,-1,,7:47 PM
+54,2,6,61,0021600001,,,6:48,1,5.0,4,1,204001,Kristaps Porzingis,NYK,New York,1610612752.0,Knicks,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,Porzingis S.FOUL (P1.T2) (B.Adams),7:47 PM
+55,10,3,62,0021600001,Love Free Throw 1 of 1 (3 PTS),,6:48,1,4.0,0,0,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,10 - 10,TIE,,7:47 PM
+56,5,2,65,0021600001,,,6:24,1,5.0,0,0,201149,Joakim Noah,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Noah  Layup,7:48 PM
+57,0,4,66,0021600001,Smith REBOUND (Off:0 Def:1),,6:24,1,4.0,0,0,2747,JR Smith,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:48 PM
+58,1,1,67,0021600001,Irving 15' Jump Shot (2 PTS) (James 4 AST),,6:13,1,4.0,4,0,202681,Kyrie Irving,CLE,Cleveland,1610612739.0,Cavaliers,2544,LeBron James,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,10 - 12,2,,7:48 PM
+59,2,5,68,0021600001,Irving STEAL (1 STL),,6:02,1,5.0,4,0,201565,Derrick Rose,NYK,New York,1610612752.0,Knicks,202681,Kyrie Irving,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,Rose Lost Ball Turnover (P2.T4),7:48 PM
+60,41,1,69,0021600001,James 1' Running Layup (4 PTS) (Love 1 AST),,5:56,1,4.0,4,0,2544,LeBron James,CLE,Cleveland,1610612739.0,Cavaliers,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,10 - 14,4,,7:48 PM
+61,1,1,70,0021600001,,,5:38,1,5.0,0,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,12 - 14,2,Anthony 23' Jump Shot (7 PTS),7:48 PM
+62,42,2,71,0021600001,MISS Irving 2' Driving Layup,,5:25,1,4.0,0,5,202681,Kyrie Irving,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,201565,Derrick Rose,NYK,New York,1610612752.0,Knicks,,,Rose BLOCK (1 BLK),7:49 PM
+63,0,4,72,0021600001,CAVALIERS Rebound,,5:25,1,2.0,0,0,1610612739,,,,,,0,,,,,,0,,,,,,,,,7:49 PM
+64,0,8,74,0021600001,SUB: Jefferson FOR Love,,5:25,1,4.0,4,0,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,2210,Richard Jefferson,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,,7:49 PM
+65,0,8,75,0021600001,,,5:25,1,5.0,5,0,201565,Derrick Rose,NYK,New York,1610612752.0,Knicks,201943,Brandon Jennings,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Jennings FOR Rose,7:49 PM
+66,0,8,76,0021600001,,,5:25,1,5.0,5,0,201149,Joakim Noah,NYK,New York,1610612752.0,Knicks,203124,Kyle O'Quinn,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: O'Quinn FOR Noah,7:49 PM
+67,47,2,77,0021600001,MISS Smith 18' Turnaround Jump Shot,,5:16,1,4.0,0,0,2747,JR Smith,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:49 PM
+68,0,4,78,0021600001,,,5:14,1,5.0,0,0,201943,Brandon Jennings,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Jennings REBOUND (Off:0 Def:1),7:49 PM
+69,42,2,79,0021600001,,,5:05,1,5.0,0,0,204001,Kristaps Porzingis,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Porzingis  Driving Layup,7:49 PM
+70,0,4,80,0021600001,Thompson REBOUND (Off:0 Def:2),,5:03,1,4.0,0,0,202684,Tristan Thompson,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:49 PM
+71,5,2,81,0021600001,MISS Irving 1' Layup,,5:00,1,4.0,0,0,202681,Kyrie Irving,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:49 PM
+72,0,4,82,0021600001,,,5:00,1,3.0,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,Knicks Rebound,7:50 PM
+73,1,2,83,0021600001,,,4:34,1,5.0,0,0,201943,Brandon Jennings,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Jennings 20' Jump Shot,7:50 PM
+74,0,4,84,0021600001,James REBOUND (Off:1 Def:2),,4:34,1,4.0,0,0,2544,LeBron James,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:50 PM
+75,1,6,85,0021600001,,,4:34,1,5.0,4,1,203124,Kyle O'Quinn,NYK,New York,1610612752.0,Knicks,2747,JR Smith,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,O'Quinn P.FOUL (P1.T3) (B.Adams),7:50 PM
+76,17,6,87,0021600001,,,4:25,1,5.0,0,1,203124,Kyle O'Quinn,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Knicks T.Foul (Def. 3 Sec O'Quinn ) (B.Kennedy),7:51 PM
+77,16,3,88,0021600001,Irving Free Throw Technical (3 PTS),,4:25,1,4.0,0,0,202681,Kyrie Irving,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,12 - 15,3,,7:51 PM
+78,0,8,90,0021600001,,,4:25,1,5.0,5,0,204001,Kristaps Porzingis,NYK,New York,1610612752.0,Knicks,202498,Lance Thomas,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Thomas FOR Porzingis,7:51 PM
+79,0,8,91,0021600001,SUB: Shumpert FOR Smith,,4:25,1,4.0,4,0,2747,JR Smith,CLE,Cleveland,1610612739.0,Cavaliers,202697,Iman Shumpert,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,,7:51 PM
+80,42,1,93,0021600001,Irving 2' Driving Layup (5 PTS),,4:16,1,4.0,0,0,202681,Kyrie Irving,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,12 - 17,5,,7:51 PM
+81,52,1,94,0021600001,,,4:05,1,5.0,5,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,203124,Kyle O'Quinn,NYK,New York,1610612752.0,Knicks,0,,,,,,14 - 17,3,Anthony  Alley Oop Dunk (9 PTS) (O'Quinn 1 AST),7:52 PM
+82,42,2,95,0021600001,MISS Irving 2' Driving Layup,,3:49,1,4.0,0,5,202681,Kyrie Irving,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,203124,Kyle O'Quinn,NYK,New York,1610612752.0,Knicks,,,O'Quinn BLOCK (1 BLK),7:52 PM
+83,0,4,96,0021600001,Shumpert REBOUND (Off:1 Def:0),,3:46,1,4.0,0,0,202697,Iman Shumpert,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:52 PM
+84,1,2,97,0021600001,MISS Jefferson 25' 3PT Jump Shot,,3:41,1,4.0,0,0,2210,Richard Jefferson,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:52 PM
+85,0,4,99,0021600001,James REBOUND (Off:2 Def:2),,3:37,1,4.0,0,0,2544,LeBron James,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:52 PM
+86,87,1,98,0021600001,James  Putback Dunk (6 PTS),,3:37,1,4.0,0,0,2544,LeBron James,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,14 - 19,5,,7:52 PM
+87,1,1,100,0021600001,,,3:17,1,5.0,0,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,16 - 19,3,Anthony 16' Jump Shot (11 PTS),7:52 PM
+88,1,2,101,0021600001,MISS Shumpert 25' 3PT Jump Shot,,3:04,1,4.0,0,0,202697,Iman Shumpert,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:53 PM
+89,0,4,102,0021600001,,,3:04,1,3.0,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,Knicks Rebound,7:53 PM
+90,0,8,103,0021600001,SUB: Dunleavy FOR James,,3:04,1,4.0,4,0,2544,LeBron James,CLE,Cleveland,1610612739.0,Cavaliers,2399,Mike Dunleavy,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,,7:53 PM
+91,0,8,105,0021600001,SUB: Love FOR Irving,,3:04,1,4.0,4,0,202681,Kyrie Irving,CLE,Cleveland,1610612739.0,Cavaliers,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,,7:53 PM
+92,1,2,106,0021600001,,,2:50,1,5.0,0,0,202498,Lance Thomas,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Thomas 23' Jump Shot,7:53 PM
+93,0,4,107,0021600001,Jefferson REBOUND (Off:0 Def:1),,2:50,1,4.0,0,0,2210,Richard Jefferson,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:53 PM
+94,40,2,108,0021600001,MISS Love 2' Layup,,2:43,1,4.0,0,0,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:53 PM
+95,0,4,110,0021600001,CAVALIERS Rebound,,2:43,1,2.0,0,0,1610612739,,,,,,0,,,,,,0,,,,,,,,,7:53 PM
+96,1,9,112,0021600001,,,2:43,1,3.0,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,Knicks Timeout: Regular (Reg.1 Short 0),7:54 PM
+97,1,18,114,0021600001,,,2:43,1,,0,1,70,Steve Kerr,,,,,0,,,,,,0,,,,,,,,,7:54 PM
+98,98,2,117,0021600001,MISS Love 2' Cutting Layup Shot,,2:40,1,4.0,0,5,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,203124,Kyle O'Quinn,NYK,New York,1610612752.0,Knicks,,,O'Quinn BLOCK (2 BLK),7:56 PM
+99,0,4,118,0021600001,,,2:39,1,5.0,0,0,201584,Courtney Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Lee REBOUND (Off:0 Def:2),7:56 PM
+100,4,6,119,0021600001,,,2:37,1,5.0,4,1,203124,Kyle O'Quinn,NYK,New York,1610612752.0,Knicks,2399,Mike Dunleavy,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,O'Quinn OFF.Foul (P2) (K.Lane),7:57 PM
+101,5,5,120,0021600001,,,2:37,1,5.0,0,1,203124,Kyle O'Quinn,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,O'Quinn Foul Turnover (P1.T5),7:57 PM
+102,80,1,121,0021600001,Love 14' Step Back Jump Shot (5 PTS) (Shumpert 1 AST),,2:16,1,4.0,4,0,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,202697,Iman Shumpert,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,16 - 21,5,,7:57 PM
+103,2,5,122,0021600001,Jefferson STEAL (1 STL),,2:00,1,5.0,4,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,2210,Richard Jefferson,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,Anthony Lost Ball Turnover (P2.T6),7:57 PM
+104,50,1,123,0021600001,Jefferson  Running Dunk (2 PTS),,1:55,1,4.0,0,0,2210,Richard Jefferson,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,16 - 23,7,,7:58 PM
+105,45,5,124,0021600001,,,1:40,1,5.0,0,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Anthony Out of Bounds - Bad Pass Turnover Turnover (P3.T7),7:58 PM
+106,0,8,125,0021600001,,,1:40,1,5.0,5,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,203200,Justin Holiday,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Holiday FOR Anthony,7:58 PM
+107,2,6,126,0021600001,,,1:28,1,5.0,4,1,202498,Lance Thomas,NYK,New York,1610612752.0,Knicks,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,Thomas S.FOUL (P1.T4) (B.Kennedy),7:58 PM
+108,11,3,127,0021600001,MISS Love Free Throw 1 of 2,,1:28,1,4.0,0,0,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:59 PM
+109,1,4,128,0021600001,CAVALIERS Rebound,,1:28,1,2.0,0,0,1610612739,,,,,,0,,,,,,0,,,,,,,,,7:59 PM
+110,0,8,129,0021600001,,,1:28,1,5.0,5,0,201584,Courtney Lee,NYK,New York,1610612752.0,Knicks,1626195,Willy Hernangomez,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Hernangomez FOR Lee,7:59 PM
+111,12,3,130,0021600001,Love Free Throw 2 of 2 (6 PTS),,1:28,1,4.0,0,0,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,16 - 24,8,,7:59 PM
+112,1,2,133,0021600001,,,1:11,1,5.0,0,0,203124,Kyle O'Quinn,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS O'Quinn 25' 3PT Jump Shot,7:59 PM
+113,0,4,134,0021600001,Love REBOUND (Off:0 Def:3),,1:10,1,4.0,0,0,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:59 PM
+114,4,6,135,0021600001,Shumpert OFF.Foul (P1) (B.Adams),,1:06,1,4.0,5,1,202697,Iman Shumpert,CLE,Cleveland,1610612739.0,Cavaliers,203200,Justin Holiday,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,8:00 PM
+115,5,5,136,0021600001,Shumpert Foul Turnover (P1.T1),,1:06,1,4.0,0,1,202697,Iman Shumpert,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:00 PM
+116,2,6,138,0021600001,Thompson S.FOUL (P1.T2) (B.Kennedy),,0:50,1,4.0,5,1,202684,Tristan Thompson,CLE,Cleveland,1610612739.0,Cavaliers,201943,Brandon Jennings,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,8:00 PM
+117,11,3,139,0021600001,,,0:50,1,5.0,0,0,201943,Brandon Jennings,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,17 - 24,7,Jennings Free Throw 1 of 2 (1 PTS),8:00 PM
+118,12,3,141,0021600001,,,0:50,1,5.0,0,0,201943,Brandon Jennings,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,18 - 24,6,Jennings Free Throw 2 of 2 (2 PTS),8:01 PM
+119,1,6,144,0021600001,,,0:40,1,5.0,4,1,202498,Lance Thomas,NYK,New York,1610612752.0,Knicks,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,Thomas P.FOUL (P2.PN) (B.Adams),8:01 PM
+120,11,3,145,0021600001,MISS Love Free Throw 1 of 2,,0:40,1,4.0,0,0,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:01 PM
+121,1,4,146,0021600001,CAVALIERS Rebound,,0:40,1,2.0,0,0,1610612739,,,,,,0,,,,,,0,,,,,,,,,8:01 PM
+122,0,8,147,0021600001,SUB: Frye FOR Thompson,,0:40,1,4.0,4,0,202684,Tristan Thompson,CLE,Cleveland,1610612739.0,Cavaliers,101112,Channing Frye,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,,8:02 PM
+123,12,3,148,0021600001,Love Free Throw 2 of 2 (7 PTS),,0:40,1,4.0,0,0,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,18 - 25,7,,8:02 PM
+124,1,2,151,0021600001,,,0:29,1,5.0,0,0,201943,Brandon Jennings,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Jennings 24' 3PT Jump Shot,8:02 PM
+125,0,4,152,0021600001,,,0:29,1,5.0,0,0,1626195,Willy Hernangomez,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Hernangomez REBOUND (Off:1 Def:0),8:02 PM
+126,1,2,153,0021600001,Frye BLOCK (1 BLK),,0:09,1,5.0,0,4,202498,Lance Thomas,NYK,New York,1610612752.0,Knicks,0,,,,,,101112,Channing Frye,CLE,Cleveland,1610612739.0,Cavaliers,,,MISS Thomas 15' Jump Shot,8:02 PM
+127,0,4,154,0021600001,CAVALIERS Rebound,,0:09,1,2.0,0,0,1610612739,,,,,,0,,,,,,0,,,,,,,,,8:02 PM
+128,0,8,155,0021600001,SUB: Irving FOR Shumpert,,0:09,1,4.0,4,0,202697,Iman Shumpert,CLE,Cleveland,1610612739.0,Cavaliers,202681,Kyrie Irving,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,,8:03 PM
+129,0,8,156,0021600001,SUB: James FOR Jefferson,,0:09,1,4.0,4,0,2210,Richard Jefferson,CLE,Cleveland,1610612739.0,Cavaliers,2544,LeBron James,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,,8:03 PM
+130,0,8,157,0021600001,,,0:09,1,5.0,5,0,203124,Kyle O'Quinn,NYK,New York,1610612752.0,Knicks,201584,Courtney Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Lee FOR O'Quinn,8:03 PM
+131,1,1,159,0021600001,Love 24' 3PT Jump Shot (10 PTS) (James 5 AST),,0:03,1,4.0,4,0,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,2544,LeBron James,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,18 - 28,10,,8:03 PM
+132,1,2,161,0021600001,,,0:00,1,5.0,0,0,201943,Brandon Jennings,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Jennings 52' 3PT Jump Shot,8:03 PM
+133,0,4,162,0021600001,,,0:00,1,3.0,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,Knicks Rebound,8:03 PM
+134,0,13,163,0021600001,,,0:00,1,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,18 - 28,10,,8:03 PM
+135,0,12,165,0021600001,,,12:00,2,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,18 - 28,10,,8:07 PM
+136,1,2,166,0021600001,MISS Frye 25' 3PT Jump Shot,,11:46,2,4.0,0,0,101112,Channing Frye,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:07 PM
+137,0,4,167,0021600001,,,11:45,2,5.0,0,0,203200,Justin Holiday,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Holiday REBOUND (Off:0 Def:1),8:07 PM
+138,1,2,168,0021600001,,,11:29,2,5.0,0,0,203200,Justin Holiday,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Holiday 18' Jump Shot,8:07 PM
+139,0,4,169,0021600001,Irving REBOUND (Off:1 Def:1),,11:29,2,4.0,0,0,202681,Kyrie Irving,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:07 PM
+140,74,2,170,0021600001,MISS Irving 3' Running Reverse Layup,,11:26,2,4.0,0,0,202681,Kyrie Irving,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:07 PM
+141,0,4,171,0021600001,James REBOUND (Off:3 Def:2),,11:24,2,4.0,0,0,2544,LeBron James,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:08 PM
+142,1,2,172,0021600001,MISS Irving  3PT Jump Shot,,11:20,2,4.0,0,0,202681,Kyrie Irving,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:08 PM
+143,0,4,173,0021600001,Frye REBOUND (Off:1 Def:0),,11:19,2,4.0,0,0,101112,Channing Frye,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:08 PM
+144,7,1,174,0021600001,James  Dunk (8 PTS) (Jefferson 1 AST),,10:55,2,4.0,4,0,2544,LeBron James,CLE,Cleveland,1610612739.0,Cavaliers,2210,Richard Jefferson,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,18 - 30,12,,8:08 PM
+145,1,5,175,0021600001,Dunleavy STEAL (1 STL),,10:47,2,5.0,4,0,1626195,Willy Hernangomez,NYK,New York,1610612752.0,Knicks,2399,Mike Dunleavy,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,Hernangomez Bad Pass Turnover (P1.T8),8:08 PM
+146,41,2,176,0021600001,MISS James 3' Running Layup,,10:42,2,4.0,0,0,2544,LeBron James,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:08 PM
+147,0,4,178,0021600001,Frye REBOUND (Off:2 Def:0),,10:40,2,4.0,0,0,101112,Channing Frye,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:08 PM
+148,97,2,177,0021600001,MISS Frye 1' Tip Layup Shot,,10:40,2,4.0,0,0,101112,Channing Frye,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:08 PM
+149,0,4,179,0021600001,,,10:40,2,5.0,0,0,202498,Lance Thomas,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Thomas REBOUND (Off:0 Def:1),8:08 PM
+150,1,2,180,0021600001,,,10:23,2,5.0,0,0,202498,Lance Thomas,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Thomas 22' Jump Shot,8:09 PM
+151,0,4,181,0021600001,Dunleavy REBOUND (Off:0 Def:1),,10:23,2,4.0,0,0,2399,Mike Dunleavy,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:09 PM
+152,1,2,182,0021600001,MISS Frye 25' 3PT Jump Shot,,10:11,2,4.0,0,0,101112,Channing Frye,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:09 PM
+153,0,4,183,0021600001,,,10:11,2,5.0,0,0,201943,Brandon Jennings,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Jennings REBOUND (Off:0 Def:2),8:09 PM
+154,5,1,184,0021600001,,,10:02,2,5.0,5,0,1626195,Willy Hernangomez,NYK,New York,1610612752.0,Knicks,201943,Brandon Jennings,NYK,New York,1610612752.0,Knicks,0,,,,,,20 - 30,10,Hernangomez 1' Layup (2 PTS) (Jennings 1 AST),8:09 PM
+155,7,1,185,0021600001,Jefferson  Dunk (4 PTS) (James 6 AST),,9:46,2,4.0,4,0,2210,Richard Jefferson,CLE,Cleveland,1610612739.0,Cavaliers,2544,LeBron James,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,20 - 32,12,,8:09 PM
+156,2,6,189,0021600001,Frye S.FOUL (P1.T1) (B.Adams),,9:36,2,4.0,5,1,101112,Channing Frye,CLE,Cleveland,1610612739.0,Cavaliers,201943,Brandon Jennings,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,8:10 PM
+157,11,3,190,0021600001,,,9:36,2,5.0,0,0,201943,Brandon Jennings,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,21 - 32,11,Jennings Free Throw 1 of 2 (3 PTS),8:10 PM
+158,0,8,192,0021600001,,,9:36,2,5.0,5,0,1626195,Willy Hernangomez,NYK,New York,1610612752.0,Knicks,204001,Kristaps Porzingis,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Porzingis FOR Hernangomez,8:10 PM
+159,12,3,193,0021600001,,,9:36,2,5.0,0,0,201943,Brandon Jennings,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,22 - 32,10,Jennings Free Throw 2 of 2 (4 PTS),8:10 PM
+160,1,6,195,0021600001,,,9:27,2,5.0,4,1,204001,Kristaps Porzingis,NYK,New York,1610612752.0,Knicks,2210,Richard Jefferson,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,Porzingis P.FOUL (P2.T1) (B.Adams),8:11 PM
+161,0,8,196,0021600001,,,9:27,2,5.0,5,0,201943,Brandon Jennings,NYK,New York,1610612752.0,Knicks,201565,Derrick Rose,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Rose FOR Jennings,8:11 PM
+162,1,2,197,0021600001,MISS Dunleavy 26' 3PT Jump Shot,,9:12,2,4.0,0,0,2399,Mike Dunleavy,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:11 PM
+163,0,4,198,0021600001,,,9:12,2,5.0,0,0,203200,Justin Holiday,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Holiday REBOUND (Off:0 Def:2),8:11 PM
+164,79,1,199,0021600001,,,9:01,2,5.0,0,0,201565,Derrick Rose,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,24 - 32,8,Rose 12' Pullup Jump Shot (4 PTS),8:11 PM
+165,1,2,201,0021600001,MISS Irving 15' Jump Shot,,8:48,2,4.0,0,0,202681,Kyrie Irving,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:11 PM
+166,0,4,202,0021600001,,,8:48,2,5.0,0,0,203124,Kyle O'Quinn,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,O'Quinn REBOUND (Off:0 Def:1),8:11 PM
+167,2,5,203,0021600001,Jefferson STEAL (2 STL),,8:41,2,5.0,4,0,201565,Derrick Rose,NYK,New York,1610612752.0,Knicks,2210,Richard Jefferson,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,Rose Lost Ball Turnover (P3.T9),8:12 PM
+168,50,1,204,0021600001,James  Running Dunk (10 PTS) (Irving 2 AST),,8:36,2,4.0,4,0,2544,LeBron James,CLE,Cleveland,1610612739.0,Cavaliers,202681,Kyrie Irving,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,24 - 34,10,,8:12 PM
+169,1,9,205,0021600001,,,8:36,2,3.0,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,Knicks Timeout: Regular (Reg.2 Short 0),8:12 PM
+170,0,8,207,0021600001,,,8:36,2,5.0,5,0,203124,Kyle O'Quinn,NYK,New York,1610612752.0,Knicks,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Anthony FOR O'Quinn,8:15 PM
+171,1,5,209,0021600001,Frye STEAL (1 STL),,8:23,2,5.0,4,0,201565,Derrick Rose,NYK,New York,1610612752.0,Knicks,101112,Channing Frye,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,Rose Bad Pass Turnover (P4.T10),8:15 PM
+172,40,5,210,0021600001,Jefferson Out of Bounds Lost Ball Turnover (P1.T2),,8:12,2,4.0,0,0,2210,Richard Jefferson,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:15 PM
+173,1,2,211,0021600001,,,7:58,2,5.0,0,0,204001,Kristaps Porzingis,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Porzingis 15' Jump Shot,8:16 PM
+174,0,4,212,0021600001,James REBOUND (Off:3 Def:3),,7:57,2,4.0,0,0,2544,LeBron James,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:16 PM
+175,1,5,236,0021600001,James Bad Pass Turnover (P1.T3),,7:46,2,4.0,5,0,2544,LeBron James,CLE,Cleveland,1610612739.0,Cavaliers,204001,Kristaps Porzingis,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Porzingis STEAL (1 STL),8:16 PM
+176,1,6,213,0021600001,Irving P.FOUL (P1.T2) (B.Kennedy),,7:45,2,4.0,5,1,202681,Kyrie Irving,CLE,Cleveland,1610612739.0,Cavaliers,204001,Kristaps Porzingis,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,8:16 PM
+177,0,8,215,0021600001,SUB: Shumpert FOR Jefferson,,7:45,2,4.0,4,0,2210,Richard Jefferson,CLE,Cleveland,1610612739.0,Cavaliers,202697,Iman Shumpert,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,,8:16 PM
+178,0,8,216,0021600001,SUB: Smith FOR Dunleavy,,7:45,2,4.0,4,0,2399,Mike Dunleavy,CLE,Cleveland,1610612739.0,Cavaliers,2747,JR Smith,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,,8:16 PM
+179,0,8,217,0021600001,SUB: Thompson FOR Frye,,7:45,2,4.0,4,0,101112,Channing Frye,CLE,Cleveland,1610612739.0,Cavaliers,202684,Tristan Thompson,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,,8:16 PM
+180,0,8,218,0021600001,,,7:45,2,5.0,5,0,202498,Lance Thomas,NYK,New York,1610612752.0,Knicks,201149,Joakim Noah,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Noah FOR Thomas,8:17 PM
+181,1,2,219,0021600001,Shumpert BLOCK (1 BLK),,7:36,2,5.0,0,4,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,202697,Iman Shumpert,CLE,Cleveland,1610612739.0,Cavaliers,,,MISS Anthony 5' Jump Shot,8:17 PM
+182,0,4,220,0021600001,James REBOUND (Off:3 Def:4),,7:35,2,4.0,0,0,2544,LeBron James,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:17 PM
+183,52,1,221,0021600001,James  Alley Oop Dunk (12 PTS) (Irving 3 AST),,7:33,2,4.0,4,0,2544,LeBron James,CLE,Cleveland,1610612739.0,Cavaliers,202681,Kyrie Irving,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,24 - 36,12,,8:17 PM
+184,1,6,222,0021600001,James P.FOUL (P2.T3) (B.Kennedy),,7:18,2,4.0,5,1,2544,LeBron James,CLE,Cleveland,1610612739.0,Cavaliers,201149,Joakim Noah,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,8:17 PM
+185,80,1,224,0021600001,,,7:07,2,5.0,0,0,201565,Derrick Rose,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,26 - 36,10,Rose 8' Step Back Jump Shot (6 PTS),8:18 PM
+186,1,1,225,0021600001,Smith 25' 3PT Jump Shot (8 PTS) (James 7 AST),,6:50,2,4.0,4,0,2747,JR Smith,CLE,Cleveland,1610612739.0,Cavaliers,2544,LeBron James,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,26 - 39,13,,8:18 PM
+187,1,1,226,0021600001,,,6:30,2,5.0,0,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,28 - 39,11,Anthony 15' Jump Shot (13 PTS),8:18 PM
+188,1,5,227,0021600001,Thompson Bad Pass Turnover (P1.T4),,6:16,2,4.0,5,0,202684,Tristan Thompson,CLE,Cleveland,1610612739.0,Cavaliers,201149,Joakim Noah,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Noah STEAL (1 STL),8:19 PM
+189,41,1,228,0021600001,,,6:11,2,5.0,0,0,201565,Derrick Rose,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,30 - 39,9,Rose  Running Layup (8 PTS),8:19 PM
+190,1,9,229,0021600001,CAVALIERS Timeout: Regular (Full 2 Short 0),,6:11,2,2.0,0,0,1610612739,,,,,,0,,,,,,0,,,,,,,,,8:19 PM
+191,4,6,233,0021600001,Thompson OFF.Foul (P2) (B.Adams),,6:02,2,4.0,5,1,202684,Tristan Thompson,CLE,Cleveland,1610612739.0,Cavaliers,203200,Justin Holiday,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,8:22 PM
+192,5,5,234,0021600001,Thompson Foul Turnover (P2.T5),,6:02,2,4.0,0,1,202684,Tristan Thompson,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:22 PM
+193,0,8,237,0021600001,SUB: Love FOR James,,6:02,2,4.0,4,0,2544,LeBron James,CLE,Cleveland,1610612739.0,Cavaliers,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,,8:22 PM
+194,1,1,238,0021600001,,,5:47,2,5.0,5,0,204001,Kristaps Porzingis,NYK,New York,1610612752.0,Knicks,203200,Justin Holiday,NYK,New York,1610612752.0,Knicks,0,,,,,,33 - 39,6,Porzingis 24' 3PT Jump Shot (6 PTS) (Holiday 1 AST),8:23 PM
+195,1,6,239,0021600001,,,5:33,2,5.0,4,1,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,Anthony P.FOUL (P2.T2) (B.Kennedy),8:23 PM
+196,1,2,241,0021600001,MISS Smith 17' Jump Shot,,5:18,2,4.0,0,0,2747,JR Smith,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:24 PM
+197,0,4,242,0021600001,,,5:18,2,5.0,0,0,204001,Kristaps Porzingis,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Porzingis REBOUND (Off:1 Def:2),8:24 PM
+198,1,1,243,0021600001,,,5:11,2,5.0,5,0,203200,Justin Holiday,NYK,New York,1610612752.0,Knicks,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,36 - 39,3,Holiday 24' 3PT Jump Shot (3 PTS) (Anthony 1 AST),8:24 PM
+199,42,1,244,0021600001,Irving 1' Driving Layup (7 PTS),,4:55,2,4.0,0,0,202681,Kyrie Irving,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,36 - 41,5,,8:24 PM
+200,1,1,245,0021600001,,,4:40,2,5.0,5,0,203200,Justin Holiday,NYK,New York,1610612752.0,Knicks,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,39 - 41,2,Holiday 25' 3PT Jump Shot (6 PTS) (Anthony 2 AST),8:24 PM
+201,1,2,246,0021600001,MISS Love 26' 3PT Jump Shot,,4:29,2,4.0,0,0,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:24 PM
+202,0,4,247,0021600001,Thompson REBOUND (Off:1 Def:2),,4:28,2,4.0,0,0,202684,Tristan Thompson,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:24 PM
+203,1,2,248,0021600001,MISS Love 24' 3PT Jump Shot,,4:19,2,4.0,0,0,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:25 PM
+204,0,4,249,0021600001,,,4:19,2,5.0,0,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Anthony REBOUND (Off:1 Def:2),8:25 PM
+205,5,1,251,0021600001,,,4:13,2,5.0,0,0,201565,Derrick Rose,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,41 - 41,TIE,Rose 1' Layup (10 PTS),8:25 PM
+206,1,1,253,0021600001,Irving 24' 3PT Jump Shot (10 PTS),,3:59,2,4.0,0,0,202681,Kyrie Irving,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,41 - 44,3,,8:25 PM
+207,1,6,254,0021600001,Shumpert P.FOUL (P2.T4) (K.Lane),,3:46,2,4.0,5,1,202697,Iman Shumpert,CLE,Cleveland,1610612739.0,Cavaliers,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,8:25 PM
+208,1,2,255,0021600001,,,3:41,2,5.0,0,0,201565,Derrick Rose,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Rose  3PT Jump Shot,8:26 PM
+209,0,4,256,0021600001,Love REBOUND (Off:0 Def:4),,3:40,2,4.0,0,0,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:26 PM
+210,1,2,257,0021600001,MISS Smith 24' 3PT Jump Shot,,3:30,2,4.0,0,0,2747,JR Smith,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:26 PM
+211,0,4,258,0021600001,Thompson REBOUND (Off:2 Def:2),,3:30,2,4.0,0,0,202684,Tristan Thompson,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:26 PM
+212,1,2,259,0021600001,MISS Shumpert 19' Jump Shot,,3:17,2,4.0,0,0,202697,Iman Shumpert,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:26 PM
+213,0,4,260,0021600001,,,3:17,2,3.0,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,Knicks Rebound,8:26 PM
+214,1,6,261,0021600001,Thompson P.FOUL (P3.PN) (K.Lane),,3:17,2,4.0,5,1,202684,Tristan Thompson,CLE,Cleveland,1610612739.0,Cavaliers,204001,Kristaps Porzingis,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,8:26 PM
+215,11,3,262,0021600001,,,3:17,2,5.0,0,0,204001,Kristaps Porzingis,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,42 - 44,2,Porzingis Free Throw 1 of 2 (7 PTS),8:26 PM
+216,0,8,264,0021600001,SUB: James FOR Thompson,,3:17,2,4.0,4,0,202684,Tristan Thompson,CLE,Cleveland,1610612739.0,Cavaliers,2544,LeBron James,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,,8:27 PM
+217,0,8,265,0021600001,SUB: Jefferson FOR Irving,,3:17,2,4.0,4,0,202681,Kyrie Irving,CLE,Cleveland,1610612739.0,Cavaliers,2210,Richard Jefferson,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,,8:27 PM
+218,0,8,266,0021600001,,,3:17,2,5.0,5,0,201149,Joakim Noah,NYK,New York,1610612752.0,Knicks,201584,Courtney Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Lee FOR Noah,8:27 PM
+219,12,3,267,0021600001,,,3:17,2,5.0,0,0,204001,Kristaps Porzingis,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Porzingis Free Throw 2 of 2,8:27 PM
+220,0,4,269,0021600001,Love REBOUND (Off:0 Def:5),,3:16,2,4.0,0,0,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:27 PM
+221,49,1,271,0021600001,Jefferson  Driving Dunk (6 PTS) (Shumpert 2 AST),,3:09,2,4.0,4,0,2210,Richard Jefferson,CLE,Cleveland,1610612739.0,Cavaliers,202697,Iman Shumpert,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,42 - 46,4,,8:27 PM
+222,79,2,272,0021600001,,,2:52,2,5.0,0,0,203200,Justin Holiday,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Holiday 16' Pullup Jump Shot,8:28 PM
+223,0,4,273,0021600001,Love REBOUND (Off:0 Def:6),,2:50,2,4.0,0,0,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:28 PM
+224,1,2,274,0021600001,MISS Smith  3PT Jump Shot,,2:44,2,4.0,0,0,2747,JR Smith,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:28 PM
+225,0,4,275,0021600001,CAVALIERS Rebound,,2:43,2,2.0,0,0,1610612739,,,,,,0,,,,,,0,,,,,,,,,8:28 PM
+226,3,6,276,0021600001,,,2:43,2,5.0,4,1,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,Anthony L.B.FOUL (P3.T3) (K.Lane),8:28 PM
+227,4,9,277,0021600001,,,2:43,2,1.0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,8:28 PM
+228,0,8,279,0021600001,,,2:43,2,5.0,5,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,202498,Lance Thomas,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Thomas FOR Anthony,8:31 PM
+229,2,5,281,0021600001,James Lost Ball Turnover (P2.T6),,2:37,2,4.0,5,0,2544,LeBron James,CLE,Cleveland,1610612739.0,Cavaliers,202498,Lance Thomas,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Thomas STEAL (1 STL),8:31 PM
+230,2,5,282,0021600001,Smith STEAL (1 STL),,2:28,2,5.0,4,0,201584,Courtney Lee,NYK,New York,1610612752.0,Knicks,2747,JR Smith,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,Lee Lost Ball Turnover (P1.T11),8:31 PM
+231,40,5,283,0021600001,Jefferson Out of Bounds Lost Ball Turnover (P2.T7),,2:20,2,4.0,0,0,2210,Richard Jefferson,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:31 PM
+232,42,2,284,0021600001,,,2:08,2,5.0,0,0,201565,Derrick Rose,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Rose 1' Driving Layup,8:32 PM
+233,0,4,285,0021600001,Smith REBOUND (Off:0 Def:2),,2:07,2,4.0,0,0,2747,JR Smith,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:32 PM
+234,1,5,287,0021600001,Love Bad Pass Turnover (P1.T8),,1:54,2,4.0,5,0,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,203200,Justin Holiday,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Holiday STEAL (1 STL),8:32 PM
+235,1,2,288,0021600001,,,1:47,2,5.0,0,0,201584,Courtney Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Lee 27' 3PT Jump Shot,8:32 PM
+236,0,4,289,0021600001,,,1:45,2,5.0,0,0,201565,Derrick Rose,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Rose REBOUND (Off:2 Def:1),8:32 PM
+237,42,1,290,0021600001,,,1:42,2,5.0,0,0,201565,Derrick Rose,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,44 - 46,2,Rose  Driving Layup (12 PTS),8:32 PM
+238,1,2,291,0021600001,MISS James 24' 3PT Jump Shot,,1:15,2,4.0,0,0,2544,LeBron James,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:33 PM
+239,0,4,292,0021600001,CAVALIERS Rebound,,1:15,2,2.0,0,0,1610612739,,,,,,0,,,,,,0,,,,,,,,,8:33 PM
+240,11,5,293,0021600001,CAVALIERS Turnover: Shot Clock (T#9),,1:15,2,2.0,0,1,1610612739,,,,,,0,,,,,,0,,,,,,,,,8:33 PM
+241,1,2,294,0021600001,,,1:05,2,5.0,0,0,204001,Kristaps Porzingis,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Porzingis 27' 3PT Jump Shot,8:33 PM
+242,0,4,295,0021600001,Love REBOUND (Off:0 Def:7),,1:05,2,4.0,0,0,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:33 PM
+243,78,2,296,0021600001,MISS James 10' Floating Jump Shot,,0:52,2,4.0,0,0,2544,LeBron James,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:33 PM
+244,0,4,297,0021600001,,,0:51,2,5.0,0,0,203200,Justin Holiday,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Holiday REBOUND (Off:0 Def:3),8:33 PM
+245,2,6,298,0021600001,Love S.FOUL (P1.PN) (B.Kennedy),,0:38,2,4.0,5,1,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,204001,Kristaps Porzingis,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,8:33 PM
+246,11,3,299,0021600001,,,0:38,2,5.0,0,0,204001,Kristaps Porzingis,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,45 - 46,1,Porzingis Free Throw 1 of 2 (8 PTS),8:34 PM
+247,12,3,301,0021600001,,,0:38,2,5.0,0,0,204001,Kristaps Porzingis,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Porzingis Free Throw 2 of 2,8:34 PM
+248,0,4,303,0021600001,Love REBOUND (Off:0 Def:8),,0:36,2,4.0,0,0,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:34 PM
+249,79,1,304,0021600001,Shumpert 14' Pullup Jump Shot (2 PTS),,0:27,2,4.0,0,0,202697,Iman Shumpert,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,45 - 48,3,,8:34 PM
+250,2,9,305,0021600001,,,0:16,2,3.0,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,Knicks Timeout: Short (Reg.2 Short 1),8:35 PM
+251,0,8,307,0021600001,,,0:16,2,5.0,5,0,202498,Lance Thomas,NYK,New York,1610612752.0,Knicks,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Anthony FOR Thomas,8:36 PM
+252,0,8,308,0021600001,SUB: McRae FOR James,,0:16,2,4.0,4,0,2544,LeBron James,CLE,Cleveland,1610612739.0,Cavaliers,203895,Jordan McRae,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,,8:36 PM
+253,0,8,309,0021600001,SUB: Dunleavy FOR Shumpert,,0:16,2,4.0,4,0,202697,Iman Shumpert,CLE,Cleveland,1610612739.0,Cavaliers,2399,Mike Dunleavy,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,,8:36 PM
+254,1,2,310,0021600001,,,0:02,2,5.0,0,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Anthony 26' 3PT Jump Shot,8:36 PM
+255,0,4,311,0021600001,,,0:01,2,5.0,0,0,204001,Kristaps Porzingis,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Porzingis REBOUND (Off:2 Def:2),8:36 PM
+256,63,2,312,0021600001,,,0:01,2,5.0,0,0,204001,Kristaps Porzingis,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Porzingis 10' Fadeaway Jumper,8:36 PM
+257,0,4,313,0021600001,Love REBOUND (Off:0 Def:9),,0:00,2,4.0,0,0,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:36 PM
+258,0,13,314,0021600001,,,0:00,2,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,45 - 48,3,,8:36 PM
+259,0,12,316,0021600001,,,12:00,3,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,45 - 48,3,,8:54 PM
+260,1,2,317,0021600001,MISS Smith 26' 3PT Jump Shot,,11:46,3,4.0,0,0,2747,JR Smith,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:54 PM
+261,0,4,318,0021600001,Love REBOUND (Off:1 Def:9),,11:46,3,4.0,0,0,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:54 PM
+262,26,6,319,0021600001,Love Offensive Charge Foul (P2.T1) (B.Adams),,11:42,3,4.0,5,1,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,201149,Joakim Noah,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,8:55 PM
+263,5,5,320,0021600001,Love Foul Turnover (P2.T10),,11:42,3,4.0,0,1,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:55 PM
+264,1,2,321,0021600001,,,11:29,3,5.0,0,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Anthony 12' Jump Shot,8:55 PM
+265,0,4,322,0021600001,Thompson REBOUND (Off:2 Def:3),,11:29,3,4.0,0,0,202684,Tristan Thompson,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:55 PM
+266,1,2,323,0021600001,MISS Irving 14' Jump Shot,,11:07,3,4.0,0,0,202681,Kyrie Irving,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:55 PM
+267,0,4,325,0021600001,Love REBOUND (Off:2 Def:9),,11:04,3,4.0,0,0,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:55 PM
+268,97,1,324,0021600001,Love 2' Tip Layup Shot (12 PTS),,11:04,3,4.0,0,0,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,45 - 50,5,,8:55 PM
+269,1,5,326,0021600001,Love STEAL (2 STL),,10:51,3,5.0,4,0,201584,Courtney Lee,NYK,New York,1610612752.0,Knicks,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,Lee Bad Pass Turnover (P2.T12),8:56 PM
+270,29,6,327,0021600001,,,10:47,3,5.0,4,1,201584,Courtney Lee,NYK,New York,1610612752.0,Knicks,2544,LeBron James,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,Lee Shooting Block Foul (P1.T1) (K.Lane),8:56 PM
+271,11,3,328,0021600001,MISS James Free Throw 1 of 2,,10:47,3,4.0,0,0,2544,LeBron James,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:56 PM
+272,1,4,329,0021600001,CAVALIERS Rebound,,10:47,3,2.0,0,0,1610612739,,,,,,0,,,,,,0,,,,,,,,,8:56 PM
+273,12,3,330,0021600001,James Free Throw 2 of 2 (13 PTS),,10:47,3,4.0,0,0,2544,LeBron James,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,45 - 51,6,,8:57 PM
+274,80,2,333,0021600001,,,10:34,3,5.0,0,0,201565,Derrick Rose,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Rose 17' Step Back Jump Shot,8:57 PM
+275,0,4,334,0021600001,,,10:32,3,5.0,0,0,201584,Courtney Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Lee REBOUND (Off:1 Def:2),8:57 PM
+276,39,5,335,0021600001,,,10:29,3,5.0,0,1,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Anthony Step Out of Bounds Turnover (P4.T13),8:57 PM
+277,1,2,336,0021600001,MISS Love 26' 3PT Jump Shot,,10:17,3,4.0,0,0,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:57 PM
+278,0,4,337,0021600001,,,10:17,3,3.0,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,Knicks Rebound,8:58 PM
+279,66,2,338,0021600001,,,9:58,3,5.0,0,0,204001,Kristaps Porzingis,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Porzingis 13' Jump Bank Shot,8:58 PM
+280,0,4,340,0021600001,,,9:54,3,5.0,0,0,204001,Kristaps Porzingis,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Porzingis REBOUND (Off:3 Def:2),8:58 PM
+281,97,1,339,0021600001,,,9:54,3,5.0,0,0,204001,Kristaps Porzingis,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,47 - 51,4,Porzingis  Tip Layup Shot (10 PTS),8:58 PM
+282,1,1,341,0021600001,Irving 28' 3PT Jump Shot (13 PTS) (Smith 1 AST),,9:35,3,4.0,4,0,202681,Kyrie Irving,CLE,Cleveland,1610612739.0,Cavaliers,2747,JR Smith,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,47 - 54,7,,8:58 PM
+283,1,1,342,0021600001,,,9:22,3,5.0,5,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,201149,Joakim Noah,NYK,New York,1610612752.0,Knicks,0,,,,,,49 - 54,5,Anthony 19' Jump Shot (15 PTS) (Noah 2 AST),8:59 PM
+284,49,1,343,0021600001,James  Driving Dunk (15 PTS) (Smith 2 AST),,9:05,3,4.0,4,0,2544,LeBron James,CLE,Cleveland,1610612739.0,Cavaliers,2747,JR Smith,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,49 - 56,7,,8:59 PM
+285,2,5,344,0021600001,Irving STEAL (2 STL),,8:50,3,5.0,4,0,204001,Kristaps Porzingis,NYK,New York,1610612752.0,Knicks,202681,Kyrie Irving,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,Porzingis Lost Ball Turnover (P1.T14),8:59 PM
+286,50,1,345,0021600001,James  Running Dunk (17 PTS) (Love 2 AST),,8:46,3,4.0,4,0,2544,LeBron James,CLE,Cleveland,1610612739.0,Cavaliers,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,49 - 58,9,,8:59 PM
+287,1,9,346,0021600001,,,8:46,3,3.0,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,Knicks Timeout: Regular (Reg.3 Short 1),8:59 PM
+288,47,2,350,0021600001,,,8:26,3,5.0,0,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Anthony 11' Turnaround Jump Shot,9:02 PM
+289,0,4,351,0021600001,CAVALIERS Rebound,,8:26,3,2.0,0,0,1610612739,,,,,,0,,,,,,0,,,,,,,,,9:03 PM
+290,1,1,352,0021600001,Love 24' 3PT Jump Shot (15 PTS) (James 8 AST),,8:04,3,4.0,4,0,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,2544,LeBron James,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,49 - 61,12,,9:03 PM
+291,42,2,353,0021600001,,,7:50,3,5.0,0,0,201565,Derrick Rose,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Rose 2' Driving Layup,9:03 PM
+292,0,4,354,0021600001,Thompson REBOUND (Off:2 Def:4),,7:48,3,4.0,0,0,202684,Tristan Thompson,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:03 PM
+293,1,2,355,0021600001,MISS Smith 8' Jump Shot,,7:37,3,4.0,0,5,2747,JR Smith,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,201584,Courtney Lee,NYK,New York,1610612752.0,Knicks,,,Lee BLOCK (1 BLK),9:04 PM
+294,0,4,356,0021600001,,,7:36,3,5.0,0,0,201149,Joakim Noah,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Noah REBOUND (Off:1 Def:4),9:04 PM
+295,1,6,357,0021600001,Thompson P.FOUL (P4.T2) (B.Kennedy),,7:36,3,4.0,5,1,202684,Tristan Thompson,CLE,Cleveland,1610612739.0,Cavaliers,201149,Joakim Noah,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,9:04 PM
+296,0,8,358,0021600001,SUB: Jefferson FOR Thompson,,7:36,3,4.0,4,0,202684,Tristan Thompson,CLE,Cleveland,1610612739.0,Cavaliers,2210,Richard Jefferson,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,,9:04 PM
+297,42,2,360,0021600001,,,7:16,3,5.0,0,0,201584,Courtney Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Lee 1' Driving Layup,9:04 PM
+298,0,4,361,0021600001,Love REBOUND (Off:2 Def:10),,7:13,3,4.0,0,0,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:04 PM
+299,26,6,362,0021600001,James Offensive Charge Foul (P3.T3) (B.Adams),,7:11,3,4.0,5,1,2544,LeBron James,CLE,Cleveland,1610612739.0,Cavaliers,201149,Joakim Noah,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,9:05 PM
+300,5,5,363,0021600001,James Foul Turnover (P3.T11),,7:11,3,4.0,0,1,2544,LeBron James,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:05 PM
+301,42,2,364,0021600001,James BLOCK (1 BLK),,6:48,3,5.0,0,4,201584,Courtney Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,2544,LeBron James,CLE,Cleveland,1610612739.0,Cavaliers,,,MISS Lee  Driving Layup,9:05 PM
+302,0,4,365,0021600001,Jefferson REBOUND (Off:0 Def:2),,6:44,3,4.0,0,0,2210,Richard Jefferson,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:05 PM
+303,1,2,366,0021600001,MISS Love 17' Jump Shot,,6:38,3,4.0,0,0,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:05 PM
+304,0,4,367,0021600001,,,6:37,3,5.0,0,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Anthony REBOUND (Off:1 Def:3),9:05 PM
+305,2,6,368,0021600001,Love S.FOUL (P3.T4) (K.Lane),,6:21,3,4.0,5,1,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,9:06 PM
+306,11,3,369,0021600001,,,6:21,3,5.0,0,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,50 - 61,11,Anthony Free Throw 1 of 2 (16 PTS),9:06 PM
+307,0,8,371,0021600001,,,6:21,3,5.0,5,0,201149,Joakim Noah,NYK,New York,1610612752.0,Knicks,202498,Lance Thomas,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Thomas FOR Noah,9:06 PM
+308,0,8,372,0021600001,,,6:21,3,5.0,5,0,201584,Courtney Lee,NYK,New York,1610612752.0,Knicks,203200,Justin Holiday,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Holiday FOR Lee,9:06 PM
+309,12,3,373,0021600001,,,6:21,3,5.0,0,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,51 - 61,10,Anthony Free Throw 2 of 2 (17 PTS),9:06 PM
+310,42,1,375,0021600001,Irving  Driving Layup (15 PTS),,6:06,3,4.0,0,0,202681,Kyrie Irving,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,51 - 63,12,,9:07 PM
+311,2,5,376,0021600001,Love STEAL (3 STL),,5:51,3,5.0,4,0,202498,Lance Thomas,NYK,New York,1610612752.0,Knicks,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,Thomas Lost Ball Turnover (P1.T15),9:07 PM
+312,1,1,377,0021600001,Irving 24' 3PT Jump Shot (18 PTS) (James 9 AST),,5:43,3,4.0,4,0,202681,Kyrie Irving,CLE,Cleveland,1610612739.0,Cavaliers,2544,LeBron James,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,51 - 66,15,,9:07 PM
+313,4,6,378,0021600001,,,5:32,3,5.0,4,1,204001,Kristaps Porzingis,NYK,New York,1610612752.0,Knicks,202681,Kyrie Irving,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,Porzingis OFF.Foul (P3) (K.Lane),9:07 PM
+314,5,5,379,0021600001,,,5:32,3,5.0,0,1,204001,Kristaps Porzingis,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Porzingis Foul Turnover (P2.T16),9:07 PM
+315,1,2,380,0021600001,MISS Smith 26' 3PT Jump Shot,,5:21,3,4.0,0,0,2747,JR Smith,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:08 PM
+316,0,4,381,0021600001,,,5:21,3,5.0,0,0,204001,Kristaps Porzingis,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Porzingis REBOUND (Off:3 Def:3),9:08 PM
+317,66,2,382,0021600001,,,5:11,3,5.0,0,0,201565,Derrick Rose,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Rose 12' Jump Bank Shot,9:08 PM
+318,0,4,383,0021600001,Smith REBOUND (Off:0 Def:3),,5:08,3,4.0,0,0,2747,JR Smith,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:08 PM
+319,42,2,384,0021600001,MISS Smith 2' Driving Layup,,5:00,3,4.0,0,5,2747,JR Smith,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,204001,Kristaps Porzingis,NYK,New York,1610612752.0,Knicks,,,Porzingis BLOCK (2 BLK),9:08 PM
+320,0,4,385,0021600001,CAVALIERS Rebound,,5:00,3,2.0,0,0,1610612739,,,,,,0,,,,,,0,,,,,,,,,9:08 PM
+321,0,8,387,0021600001,SUB: Frye FOR Love,,5:00,3,4.0,4,0,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,101112,Channing Frye,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,,9:08 PM
+322,1,1,388,0021600001,Frye 25' 3PT Jump Shot (3 PTS) (James 10 AST),,4:52,3,4.0,4,0,101112,Channing Frye,CLE,Cleveland,1610612739.0,Cavaliers,2544,LeBron James,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,51 - 69,18,,9:09 PM
+323,79,1,389,0021600001,,,4:35,3,5.0,0,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,53 - 69,16,Anthony 15' Pullup Jump Shot (19 PTS),9:09 PM
+324,1,1,390,0021600001,Irving  3PT Jump Shot (21 PTS) (James 11 AST),,4:06,3,4.0,4,0,202681,Kyrie Irving,CLE,Cleveland,1610612739.0,Cavaliers,2544,LeBron James,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,53 - 72,19,,9:09 PM
+325,42,2,391,0021600001,,,3:55,3,5.0,0,0,201565,Derrick Rose,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Rose 1' Driving Layup,9:10 PM
+326,0,4,392,0021600001,James REBOUND (Off:3 Def:5),,3:55,3,4.0,0,0,2544,LeBron James,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:10 PM
+327,66,1,393,0021600001,Irving 19' Jump Bank Shot (23 PTS) (James 12 AST),,3:47,3,4.0,4,0,202681,Kyrie Irving,CLE,Cleveland,1610612739.0,Cavaliers,2544,LeBron James,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,53 - 74,21,,9:10 PM
+328,2,9,394,0021600001,,,3:47,3,3.0,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,Knicks Timeout: Short (Reg.3 Short 2),9:10 PM
+329,0,8,396,0021600001,,,3:43,3,5.0,5,0,201565,Derrick Rose,NYK,New York,1610612752.0,Knicks,201943,Brandon Jennings,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Jennings FOR Rose,9:11 PM
+330,78,1,398,0021600001,,,3:30,3,5.0,5,0,202498,Lance Thomas,NYK,New York,1610612752.0,Knicks,201943,Brandon Jennings,NYK,New York,1610612752.0,Knicks,0,,,,,,55 - 74,19,Thomas 8' Floating Jump Shot (2 PTS) (Jennings 2 AST),9:11 PM
+331,1,2,399,0021600001,MISS Irving  3PT Jump Shot,,3:12,3,4.0,0,0,202681,Kyrie Irving,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:12 PM
+332,0,4,400,0021600001,,,3:12,3,5.0,0,0,203200,Justin Holiday,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Holiday REBOUND (Off:0 Def:4),9:12 PM
+333,80,2,402,0021600001,,,3:02,3,5.0,0,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Anthony 18' Step Back Jump Shot,9:12 PM
+334,0,4,403,0021600001,,,3:02,3,5.0,0,0,201943,Brandon Jennings,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Jennings REBOUND (Off:1 Def:2),9:12 PM
+335,2,6,404,0021600001,Smith S.FOUL (P1.PN) (B.Adams),,2:57,3,4.0,5,1,2747,JR Smith,CLE,Cleveland,1610612739.0,Cavaliers,203200,Justin Holiday,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,9:12 PM
+336,1,9,405,0021600001,CAVALIERS Timeout: Regular (Full 3 Short 0),,2:57,3,2.0,0,0,1610612739,,,,,,0,,,,,,0,,,,,,,,,9:12 PM
+337,0,8,408,0021600001,SUB: Dunleavy FOR James,,2:57,3,4.0,4,0,2544,LeBron James,CLE,Cleveland,1610612739.0,Cavaliers,2399,Mike Dunleavy,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,,9:15 PM
+338,0,8,409,0021600001,SUB: Shumpert FOR Smith,,2:57,3,4.0,4,0,2747,JR Smith,CLE,Cleveland,1610612739.0,Cavaliers,202697,Iman Shumpert,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,,9:15 PM
+339,11,3,410,0021600001,,,2:57,3,5.0,0,0,203200,Justin Holiday,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,56 - 74,18,Holiday Free Throw 1 of 2 (7 PTS),9:15 PM
+340,12,3,412,0021600001,,,2:57,3,5.0,0,0,203200,Justin Holiday,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,57 - 74,17,Holiday Free Throw 2 of 2 (8 PTS),9:15 PM
+341,82,1,414,0021600001,Irving 9' Driving Bank Shot (25 PTS) (Shumpert 3 AST),,2:33,3,4.0,4,0,202681,Kyrie Irving,CLE,Cleveland,1610612739.0,Cavaliers,202697,Iman Shumpert,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,57 - 76,19,,9:16 PM
+342,1,1,415,0021600001,,,2:14,3,5.0,5,0,204001,Kristaps Porzingis,NYK,New York,1610612752.0,Knicks,202498,Lance Thomas,NYK,New York,1610612752.0,Knicks,0,,,,,,60 - 76,16,Porzingis 28' 3PT Jump Shot (13 PTS) (Thomas 1 AST),9:16 PM
+343,71,1,417,0021600001,Irving  Finger Roll Layup (27 PTS),,1:50,3,4.0,0,0,202681,Kyrie Irving,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,60 - 78,18,,9:17 PM
+344,79,2,418,0021600001,,,1:38,3,5.0,0,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Anthony 10' Pullup Jump Shot,9:17 PM
+345,0,4,419,0021600001,Shumpert REBOUND (Off:1 Def:1),,1:36,3,4.0,0,0,202697,Iman Shumpert,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:17 PM
+346,1,5,420,0021600001,Shumpert Bad Pass Turnover (P2.T12),,1:30,3,4.0,5,0,202697,Iman Shumpert,CLE,Cleveland,1610612739.0,Cavaliers,202498,Lance Thomas,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Thomas STEAL (2 STL),9:17 PM
+347,80,1,421,0021600001,,,1:05,3,5.0,5,0,204001,Kristaps Porzingis,NYK,New York,1610612752.0,Knicks,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,63 - 78,15,Porzingis 25' 3PT Step Back Jump Shot (16 PTS) (Anthony 3 AST),9:18 PM
+348,2,9,425,0021600001,CAVALIERS Timeout: Short (Full 3 Short 1),,0:51,3,2.0,0,0,1610612739,,,,,,0,,,,,,0,,,,,,,,,9:18 PM
+349,0,8,426,0021600001,,,0:51,3,5.0,5,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,2756,Sasha Vujacic,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Vujacic FOR Anthony,9:20 PM
+350,0,8,427,0021600001,,,0:51,3,5.0,5,0,202498,Lance Thomas,NYK,New York,1610612752.0,Knicks,1627851,Mindaugas Kuzminskas,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Kuzminskas FOR Thomas,9:20 PM
+351,0,8,428,0021600001,SUB: Smith FOR Shumpert,,0:51,3,4.0,4,0,202697,Iman Shumpert,CLE,Cleveland,1610612739.0,Cavaliers,2747,JR Smith,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,,9:20 PM
+352,42,1,429,0021600001,Irving  Driving Layup (29 PTS),,0:42,3,4.0,0,0,202681,Kyrie Irving,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,63 - 80,17,,9:20 PM
+353,2,6,430,0021600001,Jefferson S.FOUL (P1.PN) (B.Kennedy),,0:29,3,4.0,5,1,2210,Richard Jefferson,CLE,Cleveland,1610612739.0,Cavaliers,201943,Brandon Jennings,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,9:20 PM
+354,11,3,431,0021600001,,,0:29,3,5.0,0,0,201943,Brandon Jennings,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,64 - 80,16,Jennings Free Throw 1 of 2 (5 PTS),9:21 PM
+355,12,3,433,0021600001,,,0:29,3,5.0,0,0,201943,Brandon Jennings,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Jennings Free Throw 2 of 2,9:21 PM
+356,0,4,435,0021600001,Frye REBOUND (Off:2 Def:1),,0:29,3,4.0,0,0,101112,Channing Frye,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:21 PM
+357,1,6,436,0021600001,,,0:16,3,5.0,4,1,2756,Sasha Vujacic,NYK,New York,1610612752.0,Knicks,202681,Kyrie Irving,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,Vujacic P.FOUL (P1.T2) (K.Lane),9:21 PM
+358,98,1,437,0021600001,Dunleavy 2' Cutting Layup Shot (2 PTS) (Irving 4 AST),,0:05,3,4.0,4,0,2399,Mike Dunleavy,CLE,Cleveland,1610612739.0,Cavaliers,202681,Kyrie Irving,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,64 - 82,18,,9:22 PM
+359,1,2,438,0021600001,,,0:00,3,5.0,0,0,201943,Brandon Jennings,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Jennings 25' 3PT Jump Shot,9:22 PM
+360,0,4,439,0021600001,,,0:00,3,3.0,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,Knicks Rebound,9:22 PM
+361,0,13,440,0021600001,,,0:00,3,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,64 - 82,18,,9:22 PM
+362,0,12,442,0021600001,,,12:00,4,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,64 - 82,18,,9:26 PM
+363,5,2,443,0021600001,,,11:40,4,5.0,0,0,203200,Justin Holiday,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Holiday 1' Layup,9:26 PM
+364,0,4,444,0021600001,Frye REBOUND (Off:2 Def:2),,11:39,4,4.0,0,0,101112,Channing Frye,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:26 PM
+365,1,2,445,0021600001,MISS Frye 25' 3PT Jump Shot,,11:30,4,4.0,0,0,101112,Channing Frye,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:26 PM
+366,0,4,446,0021600001,,,11:29,4,5.0,0,0,201149,Joakim Noah,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Noah REBOUND (Off:1 Def:5),9:26 PM
+367,1,2,447,0021600001,Liggins BLOCK (1 BLK),,11:21,4,5.0,0,4,201565,Derrick Rose,NYK,New York,1610612752.0,Knicks,0,,,,,,202732,DeAndre Liggins,CLE,Cleveland,1610612739.0,Cavaliers,,,MISS Rose 13' Jump Shot,9:26 PM
+368,0,4,448,0021600001,,,11:21,4,3.0,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,Knicks Rebound,9:27 PM
+369,58,1,450,0021600001,,,11:15,4,5.0,5,0,1627851,Mindaugas Kuzminskas,NYK,New York,1610612752.0,Knicks,203200,Justin Holiday,NYK,New York,1610612752.0,Knicks,0,,,,,,66 - 82,16,Kuzminskas 7' Turnaround Hook Shot (2 PTS) (Holiday 2 AST),9:27 PM
+370,1,6,451,0021600001,,,11:01,4,5.0,4,1,201565,Derrick Rose,NYK,New York,1610612752.0,Knicks,2544,LeBron James,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,Rose P.FOUL (P1.T1) (B.Kennedy),9:27 PM
+371,98,1,452,0021600001,Liggins  Cutting Layup Shot (2 PTS) (James 13 AST),,10:53,4,4.0,4,0,202732,DeAndre Liggins,CLE,Cleveland,1610612739.0,Cavaliers,2544,LeBron James,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,66 - 84,18,,9:27 PM
+372,80,2,453,0021600001,,,10:34,4,5.0,0,0,201565,Derrick Rose,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Rose 19' Step Back Jump Shot,9:28 PM
+373,0,4,454,0021600001,,,10:32,4,5.0,0,0,203200,Justin Holiday,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Holiday REBOUND (Off:1 Def:4),9:28 PM
+374,1,1,455,0021600001,,,10:26,4,5.0,5,0,1627851,Mindaugas Kuzminskas,NYK,New York,1610612752.0,Knicks,201149,Joakim Noah,NYK,New York,1610612752.0,Knicks,0,,,,,,69 - 84,15,Kuzminskas 25' 3PT Jump Shot (5 PTS) (Noah 3 AST),9:28 PM
+375,4,6,456,0021600001,Frye OFF.Foul (P2) (B.Kennedy),,10:00,4,4.0,5,1,101112,Channing Frye,CLE,Cleveland,1610612739.0,Cavaliers,201943,Brandon Jennings,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,9:28 PM
+376,5,5,457,0021600001,Frye Foul Turnover (P1.T13),,10:00,4,4.0,0,1,101112,Channing Frye,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:28 PM
+377,2,6,458,0021600001,Frye S.FOUL (P3.T1) (B.Adams),,9:56,4,4.0,5,1,101112,Channing Frye,CLE,Cleveland,1610612739.0,Cavaliers,201565,Derrick Rose,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,9:29 PM
+378,11,3,459,0021600001,,,9:56,4,5.0,0,0,201565,Derrick Rose,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,70 - 84,14,Rose Free Throw 1 of 2 (13 PTS),9:29 PM
+379,12,3,461,0021600001,,,9:56,4,5.0,0,0,201565,Derrick Rose,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,71 - 84,13,Rose Free Throw 2 of 2 (14 PTS),9:29 PM
+380,1,1,466,0021600001,Frye 27' 3PT Jump Shot (6 PTS) (Dunleavy 1 AST),,9:33,4,4.0,4,0,101112,Channing Frye,CLE,Cleveland,1610612739.0,Cavaliers,2399,Mike Dunleavy,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,71 - 87,16,,9:30 PM
+381,1,2,467,0021600001,,,9:21,4,5.0,0,0,1627851,Mindaugas Kuzminskas,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Kuzminskas 25' 3PT Jump Shot,9:30 PM
+382,0,4,468,0021600001,Jefferson REBOUND (Off:0 Def:3),,9:21,4,4.0,0,0,2210,Richard Jefferson,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:30 PM
+383,47,1,469,0021600001,James 8' Turnaround Jump Shot (19 PTS),,9:11,4,4.0,0,0,2544,LeBron James,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,71 - 89,18,,9:30 PM
+384,1,9,470,0021600001,,,9:11,4,3.0,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,Knicks Timeout: Regular (Reg.4 Short 2),9:30 PM
+385,0,8,472,0021600001,,,9:11,4,5.0,5,0,201149,Joakim Noah,NYK,New York,1610612752.0,Knicks,204001,Kristaps Porzingis,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Porzingis FOR Noah,9:33 PM
+386,0,8,473,0021600001,,,9:11,4,5.0,5,0,1627851,Mindaugas Kuzminskas,NYK,New York,1610612752.0,Knicks,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Anthony FOR Kuzminskas,9:33 PM
+387,1,2,475,0021600001,,,8:59,4,5.0,0,0,203200,Justin Holiday,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Holiday 24' 3PT Jump Shot,9:33 PM
+388,0,4,476,0021600001,,,8:59,4,5.0,0,0,204001,Kristaps Porzingis,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Porzingis REBOUND (Off:4 Def:3),9:34 PM
+389,1,6,477,0021600001,Frye P.FOUL (P4.T2) (B.Adams),,8:59,4,4.0,5,1,101112,Channing Frye,CLE,Cleveland,1610612739.0,Cavaliers,204001,Kristaps Porzingis,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,9:34 PM
+390,5,2,478,0021600001,,,8:50,4,5.0,0,0,203200,Justin Holiday,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Holiday 1' Layup,9:34 PM
+391,0,4,479,0021600001,Jefferson REBOUND (Off:0 Def:4),,8:48,4,4.0,0,0,2210,Richard Jefferson,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:34 PM
+392,1,6,480,0021600001,,,8:44,4,5.0,4,1,201943,Brandon Jennings,NYK,New York,1610612752.0,Knicks,101112,Channing Frye,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,Jennings P.FOUL (P1.T2) (B.Kennedy),9:34 PM
+393,1,1,481,0021600001,Jefferson  3PT Jump Shot (9 PTS) (James 14 AST),,8:34,4,4.0,4,0,2210,Richard Jefferson,CLE,Cleveland,1610612739.0,Cavaliers,2544,LeBron James,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,71 - 92,21,,9:34 PM
+394,1,1,482,0021600001,,,8:19,4,5.0,0,0,201565,Derrick Rose,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,74 - 92,18,Rose 24' 3PT Jump Shot (17 PTS),9:35 PM
+395,44,2,483,0021600001,MISS Jefferson 1' Reverse Layup,,7:57,4,4.0,0,0,2210,Richard Jefferson,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:35 PM
+396,0,4,484,0021600001,,,7:55,4,5.0,0,0,203200,Justin Holiday,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Holiday REBOUND (Off:1 Def:5),9:35 PM
+397,1,2,485,0021600001,,,7:50,4,5.0,0,0,201943,Brandon Jennings,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Jennings 25' 3PT Jump Shot,9:35 PM
+398,0,4,486,0021600001,Liggins REBOUND (Off:0 Def:1),,7:48,4,4.0,0,0,202732,DeAndre Liggins,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:35 PM
+399,2,6,487,0021600001,,,7:48,4,5.0,4,1,204001,Kristaps Porzingis,NYK,New York,1610612752.0,Knicks,2210,Richard Jefferson,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,Porzingis S.FOUL (P4.T3) (B.Kennedy),9:35 PM
+400,11,3,488,0021600001,Jefferson Free Throw 1 of 2 (10 PTS),,7:48,4,4.0,0,0,2210,Richard Jefferson,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,74 - 93,19,,9:36 PM
+401,0,8,490,0021600001,SUB: Love FOR Frye,,7:48,4,4.0,4,0,101112,Channing Frye,CLE,Cleveland,1610612739.0,Cavaliers,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,,9:36 PM
+402,12,3,491,0021600001,MISS Jefferson Free Throw 2 of 2,,7:48,4,4.0,0,0,2210,Richard Jefferson,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:36 PM
+403,0,4,493,0021600001,CAVALIERS Rebound,,7:47,4,2.0,0,0,1610612739,,,,,,0,,,,,,0,,,,,,,,,9:36 PM
+404,1,6,494,0021600001,,,7:47,4,5.0,4,1,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,Anthony P.FOUL (P4.T4) (B.Adams),9:36 PM
+405,0,8,495,0021600001,SUB: Thompson FOR Jefferson,,7:47,4,4.0,4,0,2210,Richard Jefferson,CLE,Cleveland,1610612739.0,Cavaliers,202684,Tristan Thompson,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,,9:37 PM
+406,1,6,496,0021600001,,,7:47,4,5.0,4,1,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,Anthony P.FOUL (P5.PN) (K.Lane),9:37 PM
+407,11,3,497,0021600001,Love Free Throw 1 of 2 (16 PTS),,7:47,4,4.0,0,0,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,74 - 94,20,,9:37 PM
+408,12,3,499,0021600001,MISS Love Free Throw 2 of 2,,7:47,4,4.0,0,0,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:37 PM
+409,0,4,501,0021600001,,,7:46,4,5.0,0,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Anthony REBOUND (Off:1 Def:4),9:37 PM
+410,1,2,502,0021600001,,,7:33,4,5.0,0,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Anthony 27' 3PT Jump Shot,9:38 PM
+411,0,4,503,0021600001,James REBOUND (Off:3 Def:6),,7:33,4,4.0,0,0,2544,LeBron James,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:38 PM
+412,27,6,505,0021600001,,,7:29,4,5.0,4,1,204001,Kristaps Porzingis,NYK,New York,1610612752.0,Knicks,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,Porzingis Personal Block Foul (P5.PN) (B.Kennedy),9:38 PM
+413,11,3,506,0021600001,Love Free Throw 1 of 2 (17 PTS),,7:29,4,4.0,0,0,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,74 - 95,21,,9:38 PM
+414,12,3,508,0021600001,Love Free Throw 2 of 2 (18 PTS),,7:29,4,4.0,0,0,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,74 - 96,22,,9:38 PM
+415,47,2,510,0021600001,,,7:10,4,5.0,0,0,204001,Kristaps Porzingis,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Porzingis 13' Turnaround Jump Shot,9:39 PM
+416,0,4,511,0021600001,James REBOUND (Off:3 Def:7),,7:08,4,4.0,0,0,2544,LeBron James,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:39 PM
+417,1,5,513,0021600001,James Bad Pass Turnover (P4.T14),,6:53,4,4.0,5,0,2544,LeBron James,CLE,Cleveland,1610612739.0,Cavaliers,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Anthony STEAL (1 STL),9:39 PM
+418,1,2,514,0021600001,,,6:47,4,5.0,0,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Anthony 25' 3PT Jump Shot,9:39 PM
+419,0,4,515,0021600001,James REBOUND (Off:3 Def:8),,6:45,4,4.0,0,0,2544,LeBron James,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:39 PM
+420,1,6,516,0021600001,,,6:44,4,5.0,4,1,201943,Brandon Jennings,NYK,New York,1610612752.0,Knicks,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,Jennings P.FOUL (P2.PN) (B.Adams),9:39 PM
+421,11,3,517,0021600001,Love Free Throw 1 of 2 (19 PTS),,6:44,4,4.0,0,0,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,74 - 97,23,,9:40 PM
+422,0,8,520,0021600001,SUB: Jefferson FOR James,,6:44,4,4.0,4,0,2544,LeBron James,CLE,Cleveland,1610612739.0,Cavaliers,2210,Richard Jefferson,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,,9:40 PM
+423,0,8,521,0021600001,,,6:44,4,5.0,5,0,201565,Derrick Rose,NYK,New York,1610612752.0,Knicks,1627758,Ron Baker,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Baker FOR Rose,9:40 PM
+424,0,8,522,0021600001,,,6:44,4,5.0,5,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,203124,Kyle O'Quinn,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: O'Quinn FOR Anthony,9:40 PM
+425,12,3,523,0021600001,Love Free Throw 2 of 2 (20 PTS),,6:44,4,4.0,0,0,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,74 - 98,24,,9:40 PM
+426,80,1,525,0021600001,,,6:22,4,5.0,0,0,201943,Brandon Jennings,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,76 - 98,22,Jennings 7' Step Back Jump Shot (7 PTS),9:41 PM
+427,1,1,526,0021600001,Jefferson 26' 3PT Jump Shot (13 PTS),,5:56,4,4.0,0,0,2210,Richard Jefferson,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,76 - 101,25,,9:41 PM
+428,1,2,527,0021600001,,,5:48,4,5.0,0,0,204001,Kristaps Porzingis,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Porzingis 25' 3PT Jump Shot,9:41 PM
+429,0,4,528,0021600001,Dunleavy REBOUND (Off:0 Def:2),,5:48,4,4.0,0,0,2399,Mike Dunleavy,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:41 PM
+430,5,1,529,0021600001,Love 1' Layup (22 PTS) (Liggins 1 AST),,5:34,4,4.0,4,0,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,202732,DeAndre Liggins,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,76 - 103,27,,9:41 PM
+431,2,6,530,0021600001,,,5:34,4,5.0,4,1,203124,Kyle O'Quinn,NYK,New York,1610612752.0,Knicks,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,O'Quinn S.FOUL (P3.PN) (B.Kennedy),9:41 PM
+432,4,9,531,0021600001,,,5:34,4,1.0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,9:42 PM
+433,0,8,535,0021600001,,,5:34,4,5.0,5,0,204001,Kristaps Porzingis,NYK,New York,1610612752.0,Knicks,1626195,Willy Hernangomez,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Hernangomez FOR Porzingis,9:44 PM
+434,0,8,536,0021600001,,,5:34,4,5.0,5,0,203200,Justin Holiday,NYK,New York,1610612752.0,Knicks,1627851,Mindaugas Kuzminskas,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Kuzminskas FOR Holiday,9:44 PM
+435,0,8,537,0021600001,SUB: Andersen FOR Thompson,,5:34,4,4.0,4,0,202684,Tristan Thompson,CLE,Cleveland,1610612739.0,Cavaliers,2365,Chris Andersen,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,,9:44 PM
+436,0,8,538,0021600001,SUB: McRae FOR Jefferson,,5:34,4,4.0,4,0,2210,Richard Jefferson,CLE,Cleveland,1610612739.0,Cavaliers,203895,Jordan McRae,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,,9:44 PM
+437,10,3,539,0021600001,Love Free Throw 1 of 1 (23 PTS),,5:34,4,4.0,0,0,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,76 - 104,28,,9:45 PM
+438,1,6,542,0021600001,Liggins P.FOUL (P1.T3) (B.Adams),,5:32,4,4.0,5,1,202732,DeAndre Liggins,CLE,Cleveland,1610612739.0,Cavaliers,201943,Brandon Jennings,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,9:45 PM
+439,0,8,543,0021600001,SUB: Jones FOR Love,,5:30,4,4.0,4,0,201567,Kevin Love,CLE,Cleveland,1610612739.0,Cavaliers,2592,James Jones,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,,9:45 PM
+440,79,2,544,0021600001,,,5:22,4,5.0,0,0,201943,Brandon Jennings,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Jennings 17' Pullup Jump Shot,9:45 PM
+441,0,4,545,0021600001,Dunleavy REBOUND (Off:0 Def:3),,5:21,4,4.0,0,0,2399,Mike Dunleavy,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:45 PM
+442,1,1,546,0021600001,Jones 25' 3PT Jump Shot (3 PTS) (Dunleavy 2 AST),,5:07,4,4.0,4,0,2592,James Jones,CLE,Cleveland,1610612739.0,Cavaliers,2399,Mike Dunleavy,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,76 - 107,31,,9:45 PM
+443,82,1,548,0021600001,,,4:48,4,5.0,5,0,1627758,Ron Baker,NYK,New York,1610612752.0,Knicks,201943,Brandon Jennings,NYK,New York,1610612752.0,Knicks,0,,,,,,78 - 107,29,Baker 10' Driving Bank Shot (2 PTS) (Jennings 3 AST),9:46 PM
+444,79,1,549,0021600001,McRae 9' Pullup Jump Shot (2 PTS) (Liggins 2 AST),,4:30,4,4.0,4,0,203895,Jordan McRae,CLE,Cleveland,1610612739.0,Cavaliers,202732,DeAndre Liggins,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,78 - 109,31,,9:46 PM
+445,78,1,550,0021600001,,,4:20,4,5.0,5,0,1627851,Mindaugas Kuzminskas,NYK,New York,1610612752.0,Knicks,201943,Brandon Jennings,NYK,New York,1610612752.0,Knicks,0,,,,,,80 - 109,29,Kuzminskas 12' Floating Jump Shot (7 PTS) (Jennings 4 AST),9:46 PM
+446,42,2,551,0021600001,MISS McRae 1' Driving Layup,,3:59,4,4.0,0,0,203895,Jordan McRae,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:47 PM
+447,0,4,552,0021600001,,,3:57,4,5.0,0,0,1627758,Ron Baker,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Baker REBOUND (Off:0 Def:1),9:47 PM
+448,1,2,553,0021600001,Andersen BLOCK (1 BLK),,3:49,4,5.0,0,4,1627758,Ron Baker,NYK,New York,1610612752.0,Knicks,0,,,,,,2365,Chris Andersen,CLE,Cleveland,1610612739.0,Cavaliers,,,MISS Baker 4' Jump Shot,9:47 PM
+449,0,4,554,0021600001,,,3:48,4,5.0,0,0,203124,Kyle O'Quinn,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,O'Quinn REBOUND (Off:1 Def:1),9:47 PM
+450,72,1,555,0021600001,,,3:47,4,5.0,0,0,203124,Kyle O'Quinn,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,82 - 109,27,O'Quinn 1' Putback Layup (2 PTS),9:47 PM
+451,1,2,556,0021600001,MISS Liggins 10' Jump Shot,,3:33,4,4.0,0,0,202732,DeAndre Liggins,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:47 PM
+452,0,4,557,0021600001,,,3:32,4,5.0,0,0,203124,Kyle O'Quinn,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,O'Quinn REBOUND (Off:1 Def:2),9:47 PM
+453,5,1,558,0021600001,,,3:26,4,5.0,5,0,1626195,Willy Hernangomez,NYK,New York,1610612752.0,Knicks,201943,Brandon Jennings,NYK,New York,1610612752.0,Knicks,0,,,,,,84 - 109,25,Hernangomez 3' Layup (4 PTS) (Jennings 5 AST),9:47 PM
+454,1,2,560,0021600001,MISS Jones 22' Jump Shot,,2:58,4,4.0,0,0,2592,James Jones,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:48 PM
+455,0,4,561,0021600001,,,2:57,4,5.0,0,0,203124,Kyle O'Quinn,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,O'Quinn REBOUND (Off:1 Def:3),9:48 PM
+456,1,5,562,0021600001,Dunleavy STEAL (2 STL),,2:55,4,5.0,4,0,201943,Brandon Jennings,NYK,New York,1610612752.0,Knicks,2399,Mike Dunleavy,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,Jennings Bad Pass Turnover (P1.T17),9:48 PM
+457,42,1,563,0021600001,Liggins 1' Driving Layup (4 PTS),,2:44,4,4.0,0,0,202732,DeAndre Liggins,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,84 - 111,27,,9:48 PM
+458,1,2,564,0021600001,,,2:30,4,5.0,0,0,203124,Kyle O'Quinn,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS O'Quinn 25' 3PT Jump Shot,9:48 PM
+459,0,4,565,0021600001,Liggins REBOUND (Off:0 Def:2),,2:29,4,4.0,0,0,202732,DeAndre Liggins,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:48 PM
+460,45,5,566,0021600001,Liggins Out of Bounds - Bad Pass Turnover Turnover (P1.T15),,2:27,4,4.0,0,0,202732,DeAndre Liggins,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:48 PM
+461,1,9,567,0021600001,CAVALIERS Timeout: Regular (Full 4 Short 1),,2:27,4,2.0,0,0,1610612739,,,,,,0,,,,,,0,,,,,,,,,9:48 PM
+462,0,8,569,0021600001,,,2:27,4,5.0,5,0,201943,Brandon Jennings,NYK,New York,1610612752.0,Knicks,2756,Sasha Vujacic,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Vujacic FOR Jennings,9:51 PM
+463,1,6,571,0021600001,McRae P.FOUL (P1.T4) (B.Adams),,2:20,4,4.0,5,1,203895,Jordan McRae,CLE,Cleveland,1610612739.0,Cavaliers,1627758,Ron Baker,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,9:51 PM
+464,1,2,572,0021600001,,,2:06,4,5.0,0,0,1627851,Mindaugas Kuzminskas,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Kuzminskas 26' 3PT Jump Shot,9:52 PM
+465,0,4,573,0021600001,CAVALIERS Rebound,,2:06,4,2.0,0,0,1610612739,,,,,,0,,,,,,0,,,,,,,,,9:52 PM
+466,3,6,574,0021600001,,,2:06,4,5.0,4,1,1626195,Willy Hernangomez,NYK,New York,1610612752.0,Knicks,2592,James Jones,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,Hernangomez L.B.FOUL (P1.PN) (B.Kennedy),9:52 PM
+467,11,3,575,0021600001,Jones Free Throw 1 of 2 (4 PTS),,2:06,4,4.0,0,0,2592,James Jones,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,84 - 112,28,,9:52 PM
+468,12,3,577,0021600001,Jones Free Throw 2 of 2 (5 PTS),,2:06,4,4.0,0,0,2592,James Jones,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,84 - 113,29,,9:52 PM
+469,98,2,579,0021600001,,,1:50,4,5.0,0,0,1626195,Willy Hernangomez,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Hernangomez 2' Cutting Layup Shot,9:53 PM
+470,0,4,580,0021600001,Liggins REBOUND (Off:0 Def:3),,1:50,4,4.0,0,0,202732,DeAndre Liggins,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:53 PM
+471,101,2,581,0021600001,MISS McRae 7' Driving Floating Jump Shot,,1:33,4,4.0,0,0,203895,Jordan McRae,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:53 PM
+472,0,4,582,0021600001,,,1:33,4,5.0,0,0,203124,Kyle O'Quinn,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,O'Quinn REBOUND (Off:1 Def:4),9:53 PM
+473,1,5,585,0021600001,Dunleavy STEAL (3 STL),,1:18,4,5.0,4,0,2756,Sasha Vujacic,NYK,New York,1610612752.0,Knicks,2399,Mike Dunleavy,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,Vujacic Bad Pass Turnover (P1.T18),9:54 PM
+474,75,1,586,0021600001,Dunleavy  Driving Finger Roll Layup (4 PTS) (Liggins 3 AST),,1:08,4,4.0,4,0,2399,Mike Dunleavy,CLE,Cleveland,1610612739.0,Cavaliers,202732,DeAndre Liggins,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,84 - 115,31,,9:54 PM
+475,1,6,587,0021600001,Jones P.FOUL (P1.PN) (B.Kennedy),,1:08,4,4.0,5,1,2592,James Jones,CLE,Cleveland,1610612739.0,Cavaliers,2756,Sasha Vujacic,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,9:54 PM
+476,11,3,588,0021600001,,,1:08,4,5.0,0,0,2756,Sasha Vujacic,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Vujacic Free Throw 1 of 2,9:54 PM
+477,1,4,589,0021600001,,,1:08,4,3.0,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,Knicks Rebound,9:54 PM
+478,12,3,590,0021600001,,,1:08,4,5.0,0,0,2756,Sasha Vujacic,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,85 - 115,30,Vujacic Free Throw 2 of 2 (1 PTS),9:54 PM
+479,79,2,593,0021600001,MISS McRae 16' Pullup Jump Shot,,0:47,4,4.0,0,0,203895,Jordan McRae,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:55 PM
+480,0,4,594,0021600001,,,0:47,4,5.0,0,0,1627851,Mindaugas Kuzminskas,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Kuzminskas REBOUND (Off:0 Def:1),9:55 PM
+481,1,2,595,0021600001,,,0:36,4,5.0,0,0,2756,Sasha Vujacic,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Vujacic 25' 3PT Jump Shot,9:55 PM
+482,0,4,596,0021600001,Dunleavy REBOUND (Off:0 Def:4),,0:35,4,4.0,0,0,2399,Mike Dunleavy,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:55 PM
+483,79,1,597,0021600001,Andersen 17' Pullup Jump Shot (2 PTS),,0:19,4,4.0,0,0,2365,Chris Andersen,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,85 - 117,32,,9:55 PM
+484,1,1,598,0021600001,,,0:12,4,5.0,5,0,1627758,Ron Baker,NYK,New York,1610612752.0,Knicks,2756,Sasha Vujacic,NYK,New York,1610612752.0,Knicks,0,,,,,,88 - 117,29,Baker 28' 3PT Jump Shot (5 PTS) (Vujacic 1 AST),9:56 PM
+485,0,13,600,0021600001,,,0:00,4,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,88 - 117,29,,9:56 PM
