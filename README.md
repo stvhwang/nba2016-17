@@ -1,5 +1,5 @@
 # The Point of Improbable Return
-*This project was created as part of the Data Analytics class at Galvanize and highlights my skills using SQL, Tableau and Excel.- Stephen Hwang*
+*This project was created as part of the Data Analytics class at Galvanize and highlights my skills using SQL, [Tableau](https://public.tableau.com/profile/stephen.hwang#!/vizhome/PointofImprobableReturn/PointofImprobableReturnDashboard) and Excel.- Stephen Hwang*
 
 ![POIRimage1](https://github.com/stvhwang/nba2016-17/blob/master/mike-conley-marc-gasol-pick.jpg "Marc Gasol and Mike Conley, players who led the Memphis Grizzles to multiple come-from-behind wins.")
              
