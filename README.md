@@ -1,5 +1,5 @@
 # The Point of Improbable Return
-*This project was created as part of the Data Analytics class at Galvanize and highlights my skills using SQL, Tableau and Excel.- Stephen Hwang*
+*This project was created as part of the Data Analytics class at Galvanize and highlights my skills using SQL, [Tableau](https://public.tableau.com/profile/stephen.hwang#!/vizhome/PointofImprobableReturn/PointofImprobableReturnDashboard) and Excel.- Stephen Hwang*
 
 ![POIRimage1](https://github.com/stvhwang/nba2016-17/blob/master/mike-conley-marc-gasol-pick.jpg "Marc Gasol and Mike Conley, players who led the Memphis Grizzles to multiple come-from-behind wins.")
              
@@ -34,7 +34,7 @@ The [POIRGameCheck.sql](https://github.com/stvhwang/nba2016-17/blob/master/POIRG
   * The POIRGameCheck query uses the full game query with common table expressions (CTE's)
   * A pair of SUBQUERIES using LIMIT in the WHERE clause find the first row and end game scoring margins.
   * Then a CASE statement evaluates the product and outputs the game's outcome
-     * if a game had the [prevailing team winning]() or if the [trailing team cameback to win]().
+     * if a game had the [prevailing team winning](https://github.com/stvhwang/nba2016-17/blob/master/POIRGameCheck/POIRGameCheck-game0021600001.csv) or if the [trailing team cameback to win](https://github.com/stvhwang/nba2016-17/blob/master/POIRGameCheck/POIRGameCheck-game0021600009.csv).
 
 ## 3. Summing player scoring
 After finding 14 games (out of 200 games checked)that had a successful comeback, [POIRPlayers.sql](https://github.com/stvhwang/nba2016-17/blob/master/POIRPlayers/POIRPlayers.sql) queries for players who contributed scoring in the unlikely comeback.
