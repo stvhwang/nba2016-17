@@ -1,13 +1,13 @@
-"row_number","minute_adjusted","seconds","player","team","score","scoremargin","points_scored"
-"100",1,45,"Karl-Anthony Towns","MIN","93 - 91","-2",3
-"101",1,37,"Andrew Harrison","MEM","93 - 92","-1",1
-"102",1,35,"JaMychal Green","MEM","93 - 94","1",2
-"103",0,56,"Marc Gasol","MEM","93 - 96","3",2
-"104",0,24,"Mike Conley","MEM","93 - 98","5",2
-"105",0,14,"Zach LaVine","MIN","96 - 98","2",3
-"106",0,13,"Mike Conley","MEM","96 - 99","3",1
-"107",0,13,"Mike Conley","MEM","96 - 100","4",1
-"108",0,8,"JaMychal Green","MEM","96 - 101","5",1
-"109",0,8,"JaMychal Green","MEM","96 - 102","6",1
-"110",0,1,"Andrew Wiggins","MIN","97 - 102","5",1
-"111",0,1,"Andrew Wiggins","MIN","98 - 102","4",1
+"game_id","row_number","minute_adjusted","seconds","player","team","score","scoremargin","points_scored"
+21600009,"100",1,45,"Karl-Anthony Towns","MIN","93 - 91","-2",3
+21600009,"101",1,37,"Andrew Harrison","MEM","93 - 92","-1",1
+21600009,"102",1,35,"JaMychal Green","MEM","93 - 94","1",2
+21600009,"103",0,56,"Marc Gasol","MEM","93 - 96","3",2
+21600009,"104",0,24,"Mike Conley","MEM","93 - 98","5",2
+21600009,"105",0,14,"Zach LaVine","MIN","96 - 98","2",3
+21600009,"106",0,13,"Mike Conley","MEM","96 - 99","3",1
+21600009,"107",0,13,"Mike Conley","MEM","96 - 100","4",1
+21600009,"108",0,8,"JaMychal Green","MEM","96 - 101","5",1
+21600009,"109",0,8,"JaMychal Green","MEM","96 - 102","6",1
+21600009,"110",0,1,"Andrew Wiggins","MIN","97 - 102","5",1
+21600009,"111",0,1,"Andrew Wiggins","MIN","98 - 102","4",1
