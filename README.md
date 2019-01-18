@@ -65,9 +65,19 @@ Excel was used as an alternative method to clean up a full game's scoring data, 
     * Link to raw [xlsx file](https://github.com/stvhwang/nba2016-17/blob/master/Excel/FullPoints_game0026100001_PivotTable.xlsx?raw=true).
 
 ## 6. Tableau visualization
-This data is then visualized in a Tableau dashboard [linked here](https://public.tableau.com/profile/stephen.hwang#!/vizhome/PointofImprobableReturn/PointofImprobableReturnDashboard).
-  * The dashboard combines charts that show all players who scored in comeback games after reaching POIR, marking teams by color, and charting them by total points scored, points per game and points per minute. Another bar chart show overall POIR scoring by team. It is also cross-chart filterable by team and by player.
-  * Dual axis chart
+This data is then visualized in a series of crosslinked Tableau dashboards.
+  * The [Main Dashboard](https://public.tableau.com/profile/stephen.hwang#!/vizhome/PointofImprobableReturn/PointofImprobableReturnDashboard) combines the following charts with filters for teams and player by games and minutes played. 
+    * Players who scored in comeback games after reaching POIR
+    * Total team POIR points
+    * Treemap of total player POIR points
+    * Bar graph of game outcomes at POIR and comback perecentage
+  * The [Player Dashboard](https://public.tableau.com/profile/stephen.hwang#!/vizhome/PointofImprobableReturn/POIRPlayerDashboard?publish=yes) adds more detail:
+    * Player POIR Points per player and per game.
+  * The [Team Dashboard](https://public.tableau.com/profile/stephen.hwang#!/vizhome/PointofImprobableReturn/POIRTeamDashboard?publish=yes) is a larger view of Team points and Player total scoring Treemap.
+  * The [Minute POIR Reached vs. Scoring](https://public.tableau.com/profile/stephen.hwang#!/vizhome/PointofImprobableReturn/MInutePOIRReachedDashboard?publish=yes) margin uses a dual axis chart:
+    * The scoremargin when a game reached POIR.
+    * How many games reached POIR with a given number of minutes left in the game>
+    * The percent of all games the comback games represent at the minute period.
 
 ## 7. Notes on data
 I've attended 30-50 NBA games in my life and watch many more on TV. I invented this metric to help me view if a game was close or if one team was getting blown out. Also, if a team's window to mount a comeback was available, closing, or out of reach.
