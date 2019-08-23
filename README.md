@@ -15,8 +15,8 @@ After finding some games where a comeback was successful, querying which players
 2. [Evaluating](#2-evaluating-games) games reaching POIR, and determining if comebacks are successful.
 3. [Summing](#3-summing-player-scoring) the player scoring after POIR is reached only for the winning team.
 4. [Unioning](#4-unioning-player-scoring) player scoring from all POIR games and order by highest scoring.
-5. [Excel](#5-excel-manipulation) manipulation of results, cross referenced with player data. (WIP)
-6. [Tableau](#6-tableau-visualization) visualization of results. (WIP)
+5. [Excel](#5-excel-manipulation) manipulation of results, cross referenced with player data.
+6. [Tableau](#6-tableau-visualization) visualization of results.
 7. [Notes](#7-notes-on-data) on Data
 
 ## 1. Loading and formatting data
